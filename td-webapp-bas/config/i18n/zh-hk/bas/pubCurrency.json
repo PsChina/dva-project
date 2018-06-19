@@ -1,0 +1,17 @@
+{
+  "pubCurrencyManage": "幣種信息管理",
+  "currencyName": "幣種名稱",
+  "currencyShortName": "幣種簡稱",
+  "currencyCode": "幣種代碼",
+  "currencyAbbreviations": "幣種縮寫",
+  "decimalDigit": "最小單位：小數位數",
+  "status": "狀態",
+  "status-1": "啟用",
+  "status-0": "禁用",
+  "validStatus": "請填寫狀態",
+  "validCurrencyName": "請填寫幣種名稱",
+  "validCurrencyCode": "請填寫幣種代碼",
+  "validCurrency": "請填寫幣種",
+  "validDecimalDigit": "請填寫最小單位(小數位數)",
+  "validCurrencyAbbreviations": "請填寫幣種縮寫"
+}

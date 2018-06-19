@@ -1,0 +1,8 @@
+{
+  "bankCardNo": "银行卡号",
+  "bankCardType": "银行卡类型",
+  "bankCardType-01": "借记卡",
+  "bankCardType-02": "贷记卡",
+  "validBankCardType": "请填写银行卡类型",
+  "validBankCardNo": "请填写银行卡号"
+}

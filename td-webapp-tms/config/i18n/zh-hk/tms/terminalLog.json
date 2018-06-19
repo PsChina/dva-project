@@ -1,0 +1,14 @@
+{
+  "terminalLog": "終端日誌管理",
+  "optLogno": "流水號",
+  "terId": "終端序列號",
+  "optTerPhyno": "終端機身號",
+  "optStep": "操作",
+  "optDesc": "操作描述",
+  "optOrg": "操作機構",
+  "optOrgId": "操作機構ID",
+  "optObj": "操作人",
+  "optDat": "操作時間",
+  "terNo": "終端號",
+  "terPhyno": "終端機身號"
+}

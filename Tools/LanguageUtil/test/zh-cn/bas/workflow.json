@@ -1,0 +1,28 @@
+{
+  "modelMainManage": "工作流维护",
+  "procedureManage": "步骤维护",
+  "positionManage": "岗位维护",
+  "taskMonitor": "任务监控",
+
+  "modelno": "工作流编号",
+  "modelname": "工作流名称",
+  "systemno": "系统编号",
+  "status": "状态",
+  "modeltype": "业务类型",
+  "createobj": "创建人",
+  "createdate": "创建时间",
+  "updateobj": "更新人",
+  "updatedate": "更新时间",
+
+  "stepName": "步骤名称",
+  "positionName": "岗位名称",
+  "roleName": "角色名称",
+
+  "viewProcess": "查看流程",
+  "toProcess": "分配流程",
+
+  "validModelName": "请填写工作流名称",
+  "validModelType": "请填写工作流类型",
+
+  "newPwdRepeat": "请再次输入新密码"
+}

@@ -1,0 +1,105 @@
+{
+  "merchantTransfer": "划款渠道信息管理",
+  "merchantTransferApply":"划款渠道商户添加",
+
+  "chnId": "渠道编号",
+  "chnName": "渠道名称",
+  "creTim": "创建时间",
+  "uptTim": "更新时间",
+  "chnConter": "联系人",
+  "chnMobile": "联系手机",
+  "chnPhone": "联系电话",
+  "chnAddr": "联系地址",
+  "chnType": "渠道类型",
+  "chnTxnType":"交易方式",
+  "chnStatus": "交易状态",
+  "bankRelNo": "联行号",
+  "chnCertNo": "许可证编号",
+  "chnAlias": "渠道简称",
+  "dayCutTim": "日切时间",
+  "needCheck": "需要对账",
+  "hessianUrl": "渠道服务地址",
+  "singleDayLimit": "日划款限额",
+  "singleDayCount": "日划款笔数上限",
+   "singleMinAmt":"最高划款金额",
+  "singleMaxAmt":"最低划款金额",
+  "inSingleAmt":"手续费",
+  "outSingleAmt":"手续费",
+  "inAmtMax":"手续费封顶",
+  "outAmtMax":"手续费封顶",
+  "setDefault":"设置默认",
+
+
+
+  "feeMode":"计费方式",
+  "inTxnRate":"交易费率",
+  "outTxnRate":"交易费率",
+  "minBill": "最低手续费",
+  "debitCardRate": "借记卡费率(%)",
+  "debitCardTop": "借记卡封顶",
+  "creditCardRate": "贷记卡费率(%)",
+  "creditCardTop": "贷记卡封顶",
+  "chnMerKey":"交易密钥",
+  "chnMerRefkey":"刷新密钥",
+  "merId":"商户号",
+  "merType":"商户类型",
+  "merName":"商户名称",
+  "merStatus":"商户状态",
+  "chnMerId":"渠道商户号",
+  "chnMerName":"渠道商户名",
+  "chnMerType":"渠道商户类型",
+  "chnMerStatus":"渠道商户状态",
+  "insideTransferStatus":"本本划款",
+  "outsideTransferStatus":"本它划款",
+
+  "insideTransferStatus-0":"关闭",
+  "insideTransferStatus-1":"开通",
+  "outsideTransferStatus-0":"关闭",  
+  "outsideTransferStatus-1":"开通",
+
+  "exitEnable": "请先禁用所选商户",
+  "programErr": "数据异常",
+  "statusNotMatch": "请选择状态相同的项目！",
+  "enableConfirm": "确认要开启指定项目吗？",
+  "disableConfirm": "确认要关闭指定项目吗？",
+  "scanType":"扫码方式",
+
+
+  "chnMerNo":"渠道商户号",
+
+   "chnType-0": "银联",
+  "chnType-1": "银行",
+  "chnType-2": "第三方金融机构",
+
+  "chnTxnType-1":"银行卡",
+  "chnTxnType-2":"扫码",
+
+  "merType-1":"大商户",
+  "merType-2":"小商户",
+
+  "chnMerType-1":"大商户",
+  "chnMerType-2":"小商户",
+
+  "feeMode-1": "四舍五入",
+  "feeMode-2": "全部舍去",  
+  "feeMode-3": "全部进位",
+
+  "tab-1":"划款商户添加",
+  "limitInfo": "限额信息",
+  "limitInfo-0": "关闭限额信息",
+  "limitInfo-1": "打开限额信息",
+
+  "inChargeType-0":"按笔数",
+  "inChargeType-1":"按费率",
+   "inChargeType": "本本收费方式",
+
+  "outChargeType-0":"按笔数",
+  "outChargeType-1":"按费率",
+   "outChargeType": "本它收费方式",
+  
+  "stlMemTyp-0": "平台",
+  "stlMemTyp-1": "渠道",
+
+  "linkType-0":"直连",
+  "linkType-1":"间连"
+}

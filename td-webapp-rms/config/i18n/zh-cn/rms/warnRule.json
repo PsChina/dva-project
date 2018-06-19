@@ -1,0 +1,79 @@
+{
+  "ruleTempManage": "规则模板管理",
+  "ruleManage": "规则管理",
+
+  "tmpId": "模板编号",
+  "tmpType":"模板类型",
+  "tmpName":"模板名称",
+  "ruleType": "规则类型",
+  "ruleTemp": "规则模板",
+  "ruleId": "规则编号",
+  "ruleDesc": "规则描述",
+  "ruleStatus": "规则状态",
+
+  "programErr": "数据异常",
+  "statusNotMatch": "请选择状态相同的项目",
+
+  "ruleType-01": "终端故障",
+  "ruleType-02": "终端缺液",
+  "ruleType-03": "异常订单",
+  "prodStatus": "产品状态",
+
+  "validTempId": "请填写模板编号",
+  "validProdType": "请选择规则类型",
+  "validRuleDesc": "请填写规则描述",
+  
+  "param1": "参数  1",
+  "param2": "参数  2",
+  "param3": "参数  3",
+  "param4": "参数  4",
+  "param5": "参数  5",
+
+  "validParam1": "请填写参数1",
+  "validParam2": "请填写参数2",
+  "validParam3": "请填写参数3",
+  "validParam4": "请填写参数4",
+  "validParam5": "请填写参数5",
+  "warnWay": "预警方式",
+  "validWarnWay": "请选择预警方式",
+  "warnRange-01": "运营机构",
+  "warnRange-02": "代理商",
+  "groupName": "预警组",
+
+  "smsTxt": "短信模板",
+  "validSmsTxt": "请填写短信模板",
+  "WechatTxt": "微信模板",
+  "validWechatTxt": "请填写微信模板",
+  "WechatId": "微信模板编号",
+  "validWechatId": "请填写微信模板编号",
+  "addRule":"添加规则",
+  
+  "ruleName":"规则名称",
+  "ruleTriType":"触发方式",
+  "ruleTriRate":"定时频率",
+  "ruleWarnType":"预警方式",
+  "ruleWarnGrp":"预警组",
+  "ruleRemark":"备注",
+  "configMes": "配置消息",
+  "ruleTitle":"规则列表",
+  "remarks":"备注",
+  "modify":"修改",
+  "configGrop":"配置预警组",
+  
+  "TriType-1":"实时",
+  "TriType-2":"定时",
+  "warnType-1":"拦截",
+  "warnType-2":"异常",
+  "tmpType-0":"银联刷卡",
+  "tmpType-1":"扫码",
+  "tmpType-2":"快捷",
+  "tmpType-3":"网银",
+  "ruleMesTitle":"规则信息管理",
+  "validRuleTriType":"请填写触发方式",
+  "validRuleWarnType":"请填写预警方式",
+  
+  "ruleStatus-1":"启用",
+  "ruleStatus-2":"禁用"
+}
+
+    

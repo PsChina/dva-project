@@ -1,0 +1,157 @@
+@baseSize: 16px;
+@width: 120px;
+@height: 120px;
+.mul-upload {
+  .mul-upload-item {
+    float: left;
+    margin-right: @baseSize;
+    height: @height + 72px;
+    text-align: center;
+    .mul-upload-label {
+      position: relative;
+      // margin-bottom: @baseSize / 2;
+      font-weight: bold;
+      .mul-upload-desc {
+        display: inline-block;
+        width: @width - 16px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      i:global(.anticon) {
+        float: right;
+        margin-top: 3px;
+      }
+    }
+    .mul-upload-file {
+      position: relative;
+      width: @width;
+      height: @height;
+      border: dashed 1px #ddd;
+      border-radius: 2px;
+      -webkit-transition: all .5s ease;
+      transition: all .5s ease;
+      &:hover {
+        border-color: #2db7f5;
+        cursor: pointer;
+        :global(.ant-upload) {
+          i:global(.anticon-plus) {
+            color: #2db7f5;
+          }
+        }
+      }
+      :global(.ant-upload) {
+        width: 100%;
+        height: 100%;
+        i:global(.anticon-plus) {
+          color: #999;
+          font-size: 32px;
+          font-weight: bold;
+          margin-top: @baseSize * 3 - 4px;
+          margin-bottom: @baseSize;
+          -webkit-transition: all .5s ease;
+          transition: all .5s ease;
+        }
+      }
+      // 必须放在.ant-upload外才生效
+      :global(.ant-upload-list-item) {
+        position: relative;
+        i:global(.anticon-paper-clip) {
+          position: absolute;
+          top: 5px;
+          left: 2px;
+        }
+        :global(.ant-upload-list-item-name) {
+          display: inline-block;
+          width: @width - 44px;
+          margin-left: 4px;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+      }
+      :global(.ant-upload-list-item-progress) {
+        display: none;
+      }
+      .mul-upload-mask {
+        position: absolute;
+        color: #999;
+        background-color: #fff;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 100%;
+        &:hover {
+          cursor: default;
+          cursor: not-allowed;
+          i:global(.anticon), p {
+            color: #2db7f5;
+          }
+        }
+        p, i {
+          -webkit-transition: all .5s ease;
+          transition: all .5s ease;
+        }
+        i:global(.anticon) {
+          color: #999;
+          font-size: 32px;
+          font-weight: bold;
+          margin-top: @baseSize * 3 - 4px;
+          margin-bottom: @baseSize / 2;
+        }
+        img {
+          max-width: 100%;
+          max-height: 100%;
+          border-radius: 2px;
+          margin: auto;
+          cursor: pointer;
+        }
+      }
+      p.mul-upload-info {
+        position: absolute;
+        width: 100%;
+        left: 0px;
+        bottom: 0px;
+        padding: 4px;
+        border-radius: 2px;
+        font-weight: bold;
+        color: #fff;
+        background-color: #222;
+        filter: alpha(opacity=80);
+        opacity: 0.8;
+        i:global(.anticon) {
+          font-size: 12px;
+          margin: 0px;
+        }
+      }
+    }
+  }
+}
+
+.mul-upload-image {
+  max-width: 100%;
+  margin: auto;
+}
+
+.mul-upload-bar {
+  position: fixed;
+  display: none;
+  right: @baseSize;
+  bottom: @baseSize;
+  border-radius: 4px;
+  color: #d9d9d9;
+  padding: @baseSize / 4 @baseSize @baseSize / 4 0px;
+  background-color: #000;
+  font-size: 20px;
+  font-weight: bold;
+  z-index: 1001;
+  i {
+    cursor: pointer;
+    margin-left: @baseSize;
+    -webkit-transition: all .5s ease;
+    transition: all .5s ease;
+    &:hover {
+      color: #fff;
+    }
+  }
+}

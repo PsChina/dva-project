@@ -1,0 +1,15 @@
+{
+  "gamapayBizConfig": "橘子支支付業務配置",
+  "gamapayBizInfo": "橘子支支付業務詳情",
+  "merId": "商户編號",
+  "merName": "商户名稱",
+  "payRate": "支付費率",
+  "feeLim": "封頂手續費",
+  "merMod": "商户模式",
+  "merMod-1": "一級商户",
+  "merMod-2": "二級商户",
+  "gamapayMerchantID": "橘子支商户賬號",
+  "gamapaySubMerchantID": "橘子支商户子賬號",
+  "gamapayHashKey": "gamapayHashKey",
+  "gamapayHashIv": "gamapayHashIv"
+}

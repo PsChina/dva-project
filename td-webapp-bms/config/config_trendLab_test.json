@@ -1,0 +1,17 @@
+{
+    "app": "BMS",
+    "language": "zh-hk",
+    "loginUrl": "http://35.229.219.26:40000",
+  
+    "bmsReqType": "rest",
+    "bmsHost": "",
+    "bmsApp": "bms",
+    "bmsProxy": "http://127.0.0.1:8080/",
+    "bmsProxyApp": "/td-mms-web",
+  
+    "basReqType": "rest",
+    "basHost": "",
+    "basApp": "bas",
+    "basProxy": "http://139.219.230.184:18081/",
+    "basProxyApp": "/td-bas-web"
+  }

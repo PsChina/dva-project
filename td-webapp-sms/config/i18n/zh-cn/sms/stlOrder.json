@@ -1,0 +1,50 @@
+{
+    "id":"结算编号",
+    "stlWay":"到账方式",
+    "clrTyp":"收款方类型",
+    "pyeMemId":"收款方ID",
+    "pyeMemName":"收款方名称",
+    "ccy":"币种",
+    "outAmt":"划款金额",
+    "outFee":"渠道手续费",
+    "outDate":"划款日期",
+    "outBank":"划入银行联行号",
+    "outBankName":"划入银行名称",
+    "outAcc":"划入账户",
+    "outAccName":"划入账号户名",
+    "coreAccSts":"核心记账状态",
+    "coreActDat":"会计日期",
+    "coreJrnNo":"核心流水号",
+    "outChnId":"渠道编号",
+    "outChnName":"渠道名称",
+    "outChnTim":"渠道记账时间",
+    "outChnJrnNo":"渠道流水号",
+    "outSts":"划款状态",
+
+    "stlWay-01":"支付账户",
+    "stlWay-02":"银行账户",
+
+    "coreAccSts-01":"预计",
+    "coreAccSts-02":"成功",
+    "coreAccSts-03":"失败",
+
+    "outSts-01":"划款成功",
+    "outSts-02":"待划款",
+    "outSts-03":"划款中",
+    "outSts-04":"划款失败",
+
+    "ccyCod-CNY": "人民币",
+
+    "clrTyp-01":"个人会员",
+    "clrTyp-02":"商户",
+    "clrTyp-03":"门店",
+    "clrTyp-04":"终端",
+    
+    "outAmtOperating":"划款",
+    "batchOutAmt":"批量划款",
+    
+    "pleaseSelectBatchOutData":"请选择批量划款数据",
+    "pleaseSelectNoTransferData":"请选择待划款的记录，您所选择的记录中包含不是待划款的记录",
+    "whetherBatchOutData":"是否批量划款",
+    "whetherOutData":"是否划款"
+}

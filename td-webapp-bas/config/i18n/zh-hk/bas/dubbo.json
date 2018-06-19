@@ -1,0 +1,13 @@
+{
+  "dubboServicesManage": "Dubbo服務",
+  "name": "服務名",
+  "providers": "提供者",
+  "consumners": "消費者",
+  "status": "狀態",
+  "uuid": "",
+  "see": "查看",
+  "status-1": "正常",
+  "status-2": "沒有提供者",
+  "status-3": "沒有消費者",
+  "routeAuth": "分配權限"
+}

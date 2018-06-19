@@ -1,0 +1,22 @@
+{
+  "vaildMobile": "請輸入正確的手機號碼",
+  "vaildAddrCodError": "地址編碼錯誤",
+  "vaildNumAccountsError": "校驗位錯誤",
+  "vaildIdFormatError": "身分證號格式錯誤",
+  "vaildNumLtHundred": "請輸入100（含）以下的數字",
+  "vaildIsAllNum": "請輸入數字",
+  "vaildNotAllSpace": "不能全部輸入空格",
+  "vaildIdentifiedZhnEn": "只能輸入中文與英文，中文與英文不能同時出現",
+  "vaildOnlyZhnEnNum": "請輸入中文、英文和數字",
+  "vaildIsCorrectPost": "請輸入有效的郵編",
+  "vaildIsCorrectFax": "請輸入有效的傳真",
+  "vaildIsCorrectPhoneNo": "請輸入有效的電話，如：0835-88888888",
+  "vaildIsContainNum": "不能含有數字",
+  "vaildOnlyChracterNumLine": "只能輸入字母，數字與下劃線與-",
+  "vaildIsCorrectAmt": "請輸入正確的金額",
+  "vaildIsCorrectUrl": "請輸入正確的服務地址",
+  "vaildIsCorrectEmail": "請輸入有效的郵箱",
+  "validIsCorrectLoginName": "請輸入有效的登錄名",
+  "validLoginPwd": "請輸入登錄密碼",
+  "validStlWithdrawAmount": "不能大於可提現的金額"
+}

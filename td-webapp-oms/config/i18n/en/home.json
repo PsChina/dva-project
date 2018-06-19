@@ -1,0 +1,9 @@
+{
+	"expOrdTitle": "The current abnormal orders",
+	"faultTerTitle": "The current failure terminal situation",
+	"lackTerTitle": "The current lack of liquid terminal situation",
+	"lackDesc": "The current x terminal fluid deficiency",
+	"noLackDesc": "The current terminal is not short of liquid",
+	"faultDesc": "The current x terminal fault",
+	"noFaultDesc": "The current terminal is working properly"
+}

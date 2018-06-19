@@ -1,0 +1,8 @@
+{
+  "logManage": "日誌管理",
+  "path": "路徑",
+  "date": "時間",
+  "className": "類名",
+  "logLevel": "級別",
+  "detail": "消息"
+}

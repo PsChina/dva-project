@@ -1,0 +1,13 @@
+{
+  "pubCountryManage": "國家信息管理",
+  "country": "國家名稱",
+  "countryCode": "國家代碼",
+  "countryShortName": "國家縮寫",
+  "status": "狀態",
+  "status-1": "啟用",
+  "status-0": "禁用",
+  "validStatus": "請填寫狀態",
+  "validCountry": "請填寫國家名稱",
+  "validCountryCode": "請填寫國家代碼",
+  "validCountryAbbreviations": "請填寫國家縮寫"
+}

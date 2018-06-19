@@ -1,0 +1,16 @@
+{
+  "mccLimitManage": "MCC限额管理",
+  "programErr": "数据异常",
+  "statusNotMatch": "请选择状态相同的项目",
+  "mccNo": "MCC编号",
+  "limitStatus": "限额状态",
+  "mccOneLimitAmt": "单笔最低消费额",
+  "mccOneTopAmt": "单笔消费限额",
+  "mccDayTopAmt": "日限额",
+  "mccMonTopAmt": "月限额",
+  "mccDayTopCount": "日封顶消费笔数",
+  "mccMonTopCount": "月封顶消费笔数",
+  "addTim": "添加日期",
+  "updTim": "更新日期",
+  "operId": "操作人"
+}

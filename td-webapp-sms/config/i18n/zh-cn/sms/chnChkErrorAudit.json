@@ -1,0 +1,110 @@
+{
+  "auditHistory": "审批历史",
+  "audit": "审核",
+
+  "chkDat": "对账日期",
+  "chnName": "渠道名称",
+
+  "ttxnId": "渠道交易编号",
+  "txnId": "交易编号",
+  "tmerNo": "渠道商户号",
+  "ttermNo": "渠道终端号",
+  "txnTime": "交易时间",
+  "txnAmt": "平台交易金额",
+  "ttxnAmt": "渠道交易金额",
+  "txnType": "交易类型",
+  "seqNo": "交易流水号",
+  "batNo": "交易批次号",
+  "autCod": "授权码",
+
+  "chnChkSts": "对账状态",
+
+  "ccyCod": "币种",
+
+  "txnType-A": "余额查询",
+  "txnType-S": "消费",
+  "txnType-C": "冲正",
+  "txnType-R": "撤销",
+  "txnType-P": "预授权",
+  "txnType-T": "退货",
+  "txnType-U": "正扫",
+  "txnType-M": "反扫",
+  "txnType-E": "预授权完成",
+
+  "txnStatus-0": "预计",
+  "txnStatus-S": "成功",
+  "txnStatus-F": "失败",
+  "txnStatus-C": "冲正",
+  "txnStatus-R": "撤销",
+  "txnStatus-T": "超时",
+  "txnStatus-E": "预授完成",
+  "txnStatus-P": "部分退款",
+
+  "chnChkSts-00": "未对账",
+  "chnChkSts-01": "已对平",
+  "chnChkSts-02": "业务多账",
+  "chnChkSts-03": "渠道多账",
+  "chnChkSts-04": "金额不符",
+
+  "dealSts": "处理状态",
+
+  "dealSts-00": "未处理",
+  "dealSts-01": "待审核",
+  "dealSts-02": "已处理",
+  "dealSts-03": "审核拒绝",
+
+  "txnNo": "交易编号",
+
+
+  "agree": "同意",
+  "reject": "拒绝",
+  "auditRemark": "审核意见",
+  
+  "taskAudit": "审核",
+  "auditHis": "历史",
+  "txnTyp": "交易类型",
+  "chnMerNo": "支付渠道商户号",
+  "payChnJrnNo": "渠道流水号",
+  "payChnFeeAmt": "渠道手续费金额",
+  "errDealType": "错账处理类型",
+  "errDealDte": "错账处理日期",
+  "errDealOpr": "错账处理人",
+  "ordTyp": "订单类型",
+  "payAmt": "支付金额",
+  "payChnSts": "渠道记账状态",
+  "errInf": "错账信息",
+  "ordInf": "订单信息",
+  "sysId": "系统码",
+  "payChnTim": "渠道记账时间",
+  "applyDte": "申请日期",
+  "taskDte": "审核日期",
+  "taskOpr": "审核处理人",
+  "taskSts": "审核状态",
+  "taskView": "审核意见",
+
+  "dealAmt": "处理金额",
+
+  "chnBuzType": "业务类型",
+  "chnBuzType-0100": "互联网",
+  "chnBuzType-0001": "刷卡",
+  "chnBuzType-1000": "扫码",
+
+  "dealType": "处理方式",
+  "dealType-00": "抹账",
+  "dealType-01": "垫资",
+  "dealType-02": "补单",
+  "dealType-03": "退款",
+  "dealType-04":"部分退款",
+
+  "dealRemark": "备注",
+
+  "notAudit": "未审核",
+
+  "txnChannel": "支付方式",
+  "txnChannel-0001": "银联卡",
+  "txnChannel-0002": "VISA",
+  "txnChannel-0003": "MasterCard",
+  "txnChannel-0004": "预付卡",
+  "txnChannel-1011": "支付宝",
+  "txnChannel-1012": "微信"
+}

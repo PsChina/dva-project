@@ -1,0 +1,16 @@
+{
+  "wechatPayBizConfig": "微信支付業務配置",
+  "wechatPayBizInfo": "微信支付業務詳情",
+  "merId": "商户編號",
+  "merName": "商户名稱",
+  "payRate": "支付費率",
+  "feeLim": "封頂手續費",
+  "merMod": "商户模式",
+  "merMod-1": "一級商户",
+  "merMod-2": "二級商户",
+  "belongMer": "所屬商户",
+  "merAppId": "公眾號ID",
+  "merNo": "商户號",
+  "merCertUrl": "證書地址",
+  "merKey": "商户密鑰"
+}

@@ -1,0 +1,11 @@
+{
+  "merBlackList": "商户黑名單",
+  "listType": "名單類型",
+  "listType-0": "白名單",
+  "listType-1": "黑名單",
+  "listType-2": "灰名單",
+  "creatTime": "操作時間",
+  "creatObject": "操作員",
+  "logId": "操作日誌編號",
+  "validListType": "請填寫名單類型"
+}

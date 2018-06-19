@@ -1,0 +1,20 @@
+{
+  "app": "OMS",
+  "language": "zh-hk",
+  "loginUrl": "http://pay-center.trendlab.ai",
+  "basLoginHost": "http://pay-center.trendlab.ai",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://139.219.230.184:18081/",
+  "basProxyApp": "/td-bas-web",
+
+  "omsReqType": "rest",
+  "omsHost": "",
+  "omsApp": "oms",
+  "omsProxy": "http://127.0.0.1:8080/",
+  "omsProxyApp": "/td-oms-web"
+
+
+}

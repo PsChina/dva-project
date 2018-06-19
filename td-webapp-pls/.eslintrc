@@ -1,0 +1,16 @@
+{
+    "extends": "airbnb",
+    "rules": {
+        "react/jsx-filename-extension":"off",
+        "react/prefer-stateless-function":"off",
+        "linebreak-style": "off",
+        "no-plusplus":"off",
+        "no-restricted-syntax":"off",
+        "no-undef":"off",
+        "react/jsx-no-bind":"off",
+        "import/no-extraneous-dependencies":"off",
+        "react/forbid-prop-types":"off",
+        "import/first":"off",
+        "react/jsx-boolean-value":"off"
+    }
+}

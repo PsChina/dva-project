@@ -1,0 +1,30 @@
+{
+  "basHost": "http://merchants.trendlab.ai",
+
+  "app": "MERP",
+  "logo": "MERP_LOGO",
+  "name": "MERP_NAME",
+  "language": "zh-hk",
+  "loginUrl": "http://merchants.trendlab.ai",
+
+  "userLogin":"#/login",
+  "merpReqType": "rest",
+  "merpHost": "",
+  "merpApp": "merp",
+  "merpProxy": "http://merchants.dev.trend-lab.cn",
+  "merpProxyApp": "/td-merp-web",
+  "merpFileHost": "http://merchants.dev.trend-lab.cn/",
+
+  "basReqType": "rest",
+  "basApp": "bas",
+  "basProxy": "http://bas.dev.trend-lab.cn/",
+  "basProxyApp": "/td-bas-web",
+  "basDownLoadUrl": "http://bas.dev.trend-lab.cn/td-bas-web/rest/bas/common/download",
+
+  "amsApp":"ams",
+  "amsReqType":"rest",
+  "amsProxy":"http://ams.dev.trend-lab.cn",
+
+  "tmsApp":"tms",
+  "tmsProxy":"http://tms.dev.trend-lab.cn"
+}

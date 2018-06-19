@@ -1,0 +1,19 @@
+{
+	"vaildMobile": "Please enter the correct phone number",
+	"vaildAddrCodError": "Error in postcode",
+	"vaildNumAccountsError": "Error in check digits",
+	"vaildIdFormatError": "Error in credentials",
+	"vaildNumLtHundred": "Please enter a number equal or below 100",
+	"vaildIsAllNum": "Please enter numbers only",
+	"vaildNotAllSpace": "Space is not allowed",
+	"vaildIdentifiedZhnEn": "Please input Chinese or English, Chinese and English can't appear at the same time",
+	"vaildOnlyZhnEnNum": "Please input Chinese, English and Numbers",
+	"vaildIsCorrectPost": "Please enter a valid postcode",
+	"vaildIsCorrectFax": "Please enter a valid fax number",
+	"vaildIsCorrectPhoneNo": "Please enter a valid phone number, such as: 0835-88888888",
+	"vaildIsContainNum": "It can not contain numbers",
+	"vaildOnlyChracterNumLine": "Only alphabet, number, underscore or dash are allowed",
+	"vaildIsCorrectAmt": "Please input the correct amount",
+	"vaildIsCorrectUrl": "Please input the correct service address",
+	"vaildIsCorrectEmail": "Please enter the correct email address"
+}

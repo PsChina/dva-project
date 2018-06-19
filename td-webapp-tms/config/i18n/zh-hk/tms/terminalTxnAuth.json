@@ -1,0 +1,13 @@
+{
+  "terminalTxnAuth": "交易權限管理",
+  "txnAuthNo": "交易編號",
+  "txnType": "交易類型",
+  "txnAuthName": "交易名稱",
+  "txnStatus": "狀態",
+  "txnDesc": "交易描述",
+  "txnType-1": "刷卡",
+  "txnType-2": "掃碼",
+  "txnType-3": "管理",
+  "txnTypeIsRequired": "---請選擇交易類型---",
+  "refreshCache": "刷新緩存"
+}

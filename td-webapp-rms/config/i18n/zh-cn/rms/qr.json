@@ -1,0 +1,8 @@
+{
+  "qr": "二维码列表",
+  "qrId": "二维码编号",
+  "merName": "商户名称",
+  "storeName": "门店名称",
+  "agtName":"代理商名称",
+  "createUserName":"操作人"
+}

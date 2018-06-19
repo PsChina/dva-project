@@ -1,0 +1,18 @@
+{
+  "shareConfig": "分润设置",
+  "shareCost": "分润成本",
+  "ind-1": "一般类",
+  "ind-2": "优惠类",
+  "ind-3": "减免类",
+  "dcardCost": "借记卡成本",
+  "ccardCost": "贷记卡成本",
+  "costLimit": "成本封顶",
+  "shareType": "分润方式",
+  "shareType-1": "按交易量区间比例",
+  "shareType-2": "按交易金额比例",
+  "shareType-3": "按交易手续费比例",
+  "txnRange": "交易量区间",
+  "sharePercent": "分润比例",
+  "formula": "计算公式",
+  "formula-1": "(交易手续费 - 交易成本) x 交易量区间分润比例"
+}

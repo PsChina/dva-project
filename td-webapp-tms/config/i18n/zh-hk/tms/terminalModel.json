@@ -1,0 +1,10 @@
+{
+  "terminalModel": "終端型號管理",
+  "terModId": "型號ID",
+  "copId": "廠商編號",
+  "copNam": "廠商名稱",
+  "terModNo": "機具型號",
+  "terTyp": "終端類型",
+  "terSubTyp": "終端子類型",
+  "high": "高級搜索"
+}

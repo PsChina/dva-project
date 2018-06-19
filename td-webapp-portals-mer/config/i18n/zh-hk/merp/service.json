@@ -1,0 +1,8 @@
+{
+  "oldPwd": "原密碼",
+  "newPwd": "新密碼",
+  "reNewPwd": "確認密碼",
+  "diffTwoPwd": "兩次輸入的密碼不一致",
+  "merDetail": "商户詳情",
+  "pwdModify": "密碼修改"
+}

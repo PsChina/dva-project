@@ -1,0 +1,29 @@
+{
+  "groupId": "预警组ID",
+  "groupName": "预警组名称",
+  "orgType": "机构类型",
+  "groupType": "预警组类型",
+  "groupType-01": "故障预警",
+  "groupType-02": "缺液预警",
+  "groupType-03": "订单预警",
+  
+  "groupType01": "故障预警",
+  "groupType02": "缺液预警",
+  "groupType03": "订单预警",
+
+  "validGroupName": "请填写预警组名称",
+  "validOrgType": "请选择机构类型",
+  "validGroupType": "请选择预警组类型",
+  "warnGrop":"预警组管理",
+  "headquarters": "总公司",
+  "branchOffice": "分公司",
+  "agent": "代理商",
+  "tmpType-0":"银联刷卡",
+  "tmpType-1":"扫码",
+  "tmpType-2":"快捷",
+  "tmpType-3":"网银",
+  "grpOrgId":"机构类型",
+  "grpRemark":"备注",
+  "grpOrgId-01":"运营机构",
+  "grpOrgId-02":"代理商"
+}

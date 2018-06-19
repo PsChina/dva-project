@@ -1,0 +1,22 @@
+{
+  "personalMemberManage": "个人会员管理",
+  "personalMemberApply": "个人会员申请",
+  "baseInfo": "基本信息",
+  "realInfo": "实名信息",
+
+  "userName": "用户名称",
+  "realName": "真实姓名",
+  "mobile": "手机号码",
+  "email": "电子邮箱",
+  "address": "详细地址",
+  "gender": "性别",
+  "birthday": "生日",
+  "certificateType": "证件类型",
+  "certificateNo": "证件号码",
+  "remark": "备注",
+  "status": "状态",
+
+  "certificateType-01": "居民身分",
+  "certificateType-02": "护照",
+  "certificateType-99": "其他"
+}

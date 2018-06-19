@@ -1,0 +1,23 @@
+{
+  "positionManage": "崗位維護",
+  "positionno": "崗位編號",
+  "positioncode": "崗位代碼",
+  "positionname": "崗位名稱",
+  "systemno": "系統編號",
+  "systemname": "系統名稱",
+  "status": "崗位狀態",
+  "createobj": "創建人",
+  "createdate": "創建時間",
+  "updateobj": "更新人",
+  "updatedate": "更新時間",
+  "assignRole": "關聯角色",
+  "selectedRole": "已選角色",
+  "noSelectedRole": "未選角色",
+  "addPositionRole": "添加角色",
+  "deletePositionRole": "刪除角色",
+  "validPositionCode": "請填寫崗位代碼",
+  "validPositionName": "請填寫崗位名稱",
+  "statusNotMatch": "請選擇狀態相同的項目",
+  "addPositionRoleMsg": "至少保留一種角色",
+  "programErr": "數據異常"
+}

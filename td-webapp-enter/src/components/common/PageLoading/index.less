@@ -1,0 +1,25 @@
+@theme-color: #fff;  // customize loading color like: #29d
+@animate-color: #01bad2;
+.page-loading {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 2px;
+  z-index: 1031;
+  pointer-events: none;
+  .bar {
+    position: relative;
+    height: 2px;
+    transition: all 200ms ease 0s;
+    background: @theme-color none repeat scroll 0 0;
+  }
+  i {
+    float: right;
+    color: @theme-color;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 2px;
+    margin-right: 4px;
+  }
+}

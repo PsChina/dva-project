@@ -1,0 +1,20 @@
+{
+  "personalMemberManage": "個人會員管理",
+  "personalMemberApply": "個人會員申請",
+  "baseInfo": "基本信息",
+  "realInfo": "實名信息",
+  "userName": "用户名稱",
+  "realName": "真實姓名",
+  "mobile": "手機號碼",
+  "email": "電子郵箱",
+  "address": "詳細地址",
+  "gender": "性別",
+  "birthday": "生日",
+  "certificateType": "證件類型",
+  "certificateNo": "證件號碼",
+  "remark": "備註",
+  "status": "狀態",
+  "certificateType-01": "居民身分",
+  "certificateType-02": "護照",
+  "certificateType-99": "其他"
+}

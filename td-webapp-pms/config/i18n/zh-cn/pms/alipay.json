@@ -1,0 +1,8 @@
+{
+  "alipayPid": "支付宝Pid",
+  "alipayTk": "支付宝令牌",
+  "alipayRefreshTk": "支付宝刷新令牌",
+  "alipayMd5Key": "支付宝MD5密钥",
+  "alipayPrivatekey": "支付宝商户私钥",
+  "alipayPublickey": "支付宝公钥"
+}

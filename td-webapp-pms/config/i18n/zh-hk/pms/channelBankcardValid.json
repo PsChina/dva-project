@@ -1,0 +1,21 @@
+{
+  "validChnType": "請選擇渠道類型",
+  "validBankRelNo": "請輸入聯行號",
+  "validChnCertNo": "請輸入許可證編號",
+  "validChnName": "請輸入渠道名稱",
+  "validChnAlias-0": "只包含字母、數字、下劃線與-",
+  "validChnAlias-1": "請輸入渠道簡稱",
+  "validHessianUrl": "請輸入渠道服務地址",
+  "validChnConter": "請輸入聯繫人",
+  "validChnMobile": "請輸入聯繫手機",
+  "validChnPhone": "請輸入聯繫電話",
+  "validChnAddr": "請輸入聯繫地址",
+  "validChnRepeat": "該名稱已存在",
+  "validTxnChannelSupport": "請選擇支持的交易渠道",
+  "validCurrencySupport": "請選擇支持的幣種",
+  "validPayRate": "請輸入結算費率",
+  "validFeeLim": "請輸入封頂手續費",
+  "validNeedCheck": "請選擇是否需要對賬",
+  "validDayCutTim": "請選擇日切日期",
+  "vaildChnName": "請輸入渠道名稱"
+}

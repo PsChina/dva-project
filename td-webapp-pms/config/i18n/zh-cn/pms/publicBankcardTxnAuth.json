@@ -1,0 +1,16 @@
+{ 
+  "yecxStatus": "余额查询",
+  "xfStatus": "消费",
+  "xfczStatus": "消费冲正",
+  "cxStatus": "撤销",
+  "cxczStatus": "撤销冲正",
+  "thStatus": "退货",
+  "ysqStatus": "预授权",
+  "ysqczStatus": "冲正",
+  "ysqcxStatus": "撤销",
+  "ysqcxczStatus": "撤销冲正",
+  "ysqwcStatus": "完成",
+  "ysqwcczStatus": "完成冲正",
+  "ysqwccxStatus": "完成撤销",
+  "ysqwccxczStatus": "完成撤销冲正"
+}

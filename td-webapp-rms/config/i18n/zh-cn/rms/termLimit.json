@@ -1,0 +1,16 @@
+{
+  "terLimitManage": "终端限额管理",
+  "programErr": "数据异常",
+  "statusNotMatch": "请选择状态相同的项目",
+  "terId": "终端编号",
+  "limitStatus": "限额状态",
+  "terOneLimitAmt": "单笔最低消费额",
+  "terOneTopAmt": "单笔消费限额",
+  "terDayTopAmt": "日限额",
+  "terMonTopAmt": "月限额",
+  "terDayTopCount": "日封顶消费笔数",
+  "terMonTopCount": "月封顶消费笔数",
+  "addTim": "添加日期",
+  "updTim": "更新日期",
+  "operId": "操作人"
+}

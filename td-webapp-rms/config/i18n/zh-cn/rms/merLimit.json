@@ -1,0 +1,16 @@
+{
+  "merLimitManage": "商户限额管理",
+  "programErr": "数据异常",
+  "statusNotMatch": "请选择状态相同的项目",
+  "merId": "商户编号",
+  "limitStatus": "限额状态",
+  "merOneLimitAmt": "单笔最低消费额",
+  "merOneTopAmt": "单笔消费限额",
+  "merDayTopAmt": "日限额",
+  "merMonTopAmt": "月限额",
+  "merDayTopCount": "日封顶消费笔数",
+  "merMonTopCount": "月封顶消费笔数",
+  "addTim": "添加日期",
+  "updTim": "更新日期",
+  "operId": "操作人"
+}

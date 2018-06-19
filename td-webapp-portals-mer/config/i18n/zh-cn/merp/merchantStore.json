@@ -1,0 +1,53 @@
+{
+  "merchantStoreManage": "商户门店管理",
+  "merchantStoreUsrManage": "门店人员管理",
+  "merchantStoreApply": "商户门店申请",
+
+  "baseInfo": "基本信息",
+  "realInfo": "附件信息",
+  "attachInfo": "附件信息",
+  "attachDetail": "附件详情",
+
+  "braShortName": "分店名称",
+  "braAddress": "所在地区",
+  "braConter": "门店联系人",
+  "braTel": "门店联系人电话",
+  "braMobile": "门店联系人手机",
+  "braPost": "门店邮编",
+  "braAddr": "门店地址",
+  "braStatus": "门店状态",
+  "status": "状态",
+  "braLongitude": "门店经度",
+  "braLatidute": "门店纬度",
+
+  "fjsrcPic01": "门店Logo",
+  "fjsrcPic02": "门店首图",
+  "fjsrcPic03": "门店门头照",
+  "fjsrcPic04": "门店内景照1",
+  "fjsrcPic05": "门店内景照2",
+  "fjsrcPic06": "营业执照",
+  "fjsrcPic07": "门店管理人证件",
+  "fjsrcPic08": "管理人手持证件照",
+
+  "braStatus-01": "禁用",
+  "braStatus-02": "启用",
+
+  "roleId": "角色Id",
+  "roleName": "角色名称",
+
+  "usrId": "用户Id",
+  "braUser": "用户名",
+  "braUserName": "人员姓名",
+  "braUserPW": "人员密码",
+  "usrNo": "工号",
+  "braId": "门店编号",
+  "braNo": "门店序号",
+  "braName": "门店名称",
+  "merId": "所属商户编号",
+  "merName": "商户名称",
+  "merNo": "商户号",
+  "braRole": "用户角色",
+  "braRole-0": "门店主管",
+  "braRole-1": "门店操作员",
+  "existStoreWarning": "商户未开庭默认门店"
+}

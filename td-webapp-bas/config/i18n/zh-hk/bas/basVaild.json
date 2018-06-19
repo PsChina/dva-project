@@ -1,0 +1,18 @@
+{
+  "validOrgId": "機構編號不能為空",
+  "validOrgName": "機構名不能為空",
+  "validOldPwd": "舊密碼不能為空",
+  "validNewPwd": "新密碼不能為空",
+  "validNewPwdRepeat": "確認密碼不能為空",
+  "validNewPwdMatch": "兩次輸入新密碼不一致",
+  "newPwdNotEqualOldPwd": "修改密碼不能與原密碼相同",
+  "validJobName": "任務名不能為空",
+  "validJobCron": "Cron表達式不能為空",
+  "validJobDesc": "任務描述不能為空",
+  "validExecutorAddress": "執行地址不能為空",
+  "validExecutorHandler": "jobHandler不能為空",
+  "validAuthor": "負責人不能為空",
+  "validAlarmEmail": "報警郵件不能為空",
+  "validAlarmThreshold": "報警閥值不能為空並且為正整數",
+  "vaildPassword": "密碼為字母加數字組合"
+}

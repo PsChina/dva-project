@@ -1,0 +1,32 @@
+{
+    "confirmText":"批量确认",
+
+    "allCustomer":"所有商户",
+    "customerType-0":"合伙人",
+    "customerType-1":"商户",
+    "paymentType-0":"线上缴费",
+    "paymentType-1":"线下打款",
+    "state-0":"未确认",
+    "state-1":"已确认",
+    "state-2": "已开通",
+    "state-3": "已绑定",
+    "confirmReceipt":"确认收款",
+
+    "confirmComment":"确认已收到对应的订单款项?",
+    "orderTotal":"订单金额:",
+    "total":"合计金额:",
+    "ok":"确定",
+    "cancel":"取消",
+    "confirmSuccess":"订单确认成功",
+    "confirmfailure":"订单确认失败",
+    "confirmError":"未知错误",
+
+    "proceedsTitle":"确认收款",
+    "proceedsTitle-batch":"批量确认",
+    "plzChooseOrder":"请选择要确认的订单！",
+
+    "subtotal":"已选订单合计金额:",
+    "newOrder":"新增订单",
+    "newOrderSuccess":"新增订单成功",
+    "newOrderError":"新增订单失败"
+}

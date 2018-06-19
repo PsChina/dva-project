@@ -1,0 +1,27 @@
+{
+  "terminalApp": "终端应用管理",
+
+  "appId": "应用ID",
+  "appName": "应用名称",
+  "appPackage": "Package标识",
+  "appVersion": "应用版本",
+  "appPlatform": "适用平台",
+  "appTerTyp": "适用终端",
+  "appAutoUpdate": "是否更新",
+  "appDesc": "应用描述",
+  "appIssueDate": "发布时间",
+  "appSzie": "大小(MB)",
+  "appLogo": "LOGO",
+  "appFile": "安装文件",
+  "appFileName": "文件名称",
+  "appDescPic": "描述图片",
+  "appDescPic1": "描述图片",
+  "appDescPic2": "描述图片2",
+  "appDescPic3": "描述图片3",
+  "appDescPic4": "描述图片4",
+  "createUserId": "创建人",
+  "createDate": "创建时间",
+  "high":"高级搜索",
+  "fileUploadWarn": "文件上传失败",
+  "fileUploadSuccess": "文件上传成功"
+}

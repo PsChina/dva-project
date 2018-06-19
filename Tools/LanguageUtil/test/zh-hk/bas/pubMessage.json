@@ -1,0 +1,23 @@
+{
+  "pubMessageManage": "消息管理",
+  "msgId": "消息ID",
+  "stitle": "消息標題",
+  "scontent": "內容",
+  "sendChannel": "發送渠道",
+  "sendChannel-00": "郵箱",
+  "sendChannel-01": "短信",
+  "sendChannel-02": "推送",
+  "sender": "發送者",
+  "receiver": "接收者",
+  "sstate": "發送狀態",
+  "sstate-00": "已發送",
+  "sstate-01": "未發送",
+  "remark": "備註",
+  "sendTim": "發送時間",
+  "creTim": "創建時間",
+  "batchId": "批次號",
+  "sysId": "所屬系統",
+  "resend": "重新發送",
+  "scontentText": "郵件內容，請點擊詳情查看",
+  "resendConfirm": "確認重新發送嗎？"
+}

@@ -1,0 +1,18 @@
+{
+  "app": "RMS",
+  "language": "zh-hk",
+  "loginUrl": "http://pay-center.trendlab.ai",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://139.219.230.184:18081",
+  "basProxyApp": "/td-bas-web",
+
+  "rmsReqType": "rest",
+  "rmsHost": "",
+  "rmsApp": "rms",
+  "rmsProxy": "http://127.0.0.1:18086",
+  "rmsProxyApp": "/td-rms-web"
+
+}

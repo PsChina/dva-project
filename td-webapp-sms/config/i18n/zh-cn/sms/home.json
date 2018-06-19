@@ -1,0 +1,23 @@
+{
+  "todayCheck": "当日对账情况",
+  "last15DayCheck": "近15天对账情况",
+
+  "doubtCount": "疑账总笔数",
+  "errorCount": "错账总笔数",
+
+  "chkTotCnt": "对账总笔数",
+  "sucTotCnt": "对平总笔数",
+
+  "total": "总量",
+
+  "todaySettlement": "当日结算情况",
+  "last15DaySettlement": "近15天结算情况",
+
+  "shouldStlAmt": "应结算金额",
+  "settledAmt": "已结算金额",
+
+  "monthShare": "当月分润情况",
+  "last6MonthShare": "近6个月分润情况",
+
+  "shaTotCost": "分润总金额"
+}

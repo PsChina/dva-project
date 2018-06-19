@@ -1,0 +1,17 @@
+{
+  "basHost": "http://127.0.0.1",
+
+  "app": "MERP",
+  "logo": "MERP_LOGO",
+  "name": "MERP_NAME",
+  "language": "zh-hk",
+  "loginUrl": "http://139.219.230.184:40011",
+
+  "userLogin":"#/login",
+  "merpReqType": "rest",
+  "merpHost": "",
+  "merpApp": "merp",
+  "merpProxy": "http://139.219.230.184:40011/",
+  "merpProxyApp": "/td-merp-web",
+  "merpFileHost": "http://139.219.230.184:24001/"
+}

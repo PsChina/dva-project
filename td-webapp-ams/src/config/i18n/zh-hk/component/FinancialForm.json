@@ -1,0 +1,15 @@
+{
+  "time": "時間",
+  "customerName": "客戶名稱",
+  "customerType": "客戶類型",
+  "paymentContent": "繳費內容",
+  "orderAmount": "訂單金額",
+  "paymentType": "繳費方式",
+  "note": "訂單備註",
+  "state": "狀態",
+  "operation": "操作",
+  "state-0": "未確認",
+  "state-1": "已確認",
+  "selectCustomer": "輸入客戶名然後enter搜索",
+  "braName": "門店名稱"
+}

@@ -1,0 +1,18 @@
+{
+  "vaildMobile": "请输入正确的手机号码",
+  "vaildAddrCodError": "地址编码错误",
+  "vaildNumAccountsError": "校验位错误",
+  "vaildIdFormatError": "身分证号格式错误",
+  "vaildNumLtHundred": "请输入100（含）以下的数字",
+  "vaildIsAllNum": "请输入数字",
+  "vaildNotAllSpace": "不能全部输入空格",
+  "vaildIdentifiedZhnEn": "只能输入中文与英文，中文与英文不能同时出现",
+  "vaildOnlyZhnEnNum": "请输入中文、英文和数字",
+  "vaildIsCorrectPost": "请输入有效的邮编",
+  "vaildIsCorrectFax": "请输入有效的传真",
+  "vaildIsCorrectPhoneNo": "请输入有效的电话，如：0835-88888888",
+  "vaildIsContainNum": "不能含有数字",
+  "vaildOnlyChracterNumLine": "只能输入字母，数字与下划线与'-'",
+  "vaildIsCorrectAmt": "请输入正确的金额",
+  "vaildIsCorrectUrl": "请输入正确的服务地址"
+}

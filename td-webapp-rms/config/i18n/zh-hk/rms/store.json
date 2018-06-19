@@ -1,0 +1,11 @@
+{
+  "store": "門店列表",
+  "braId": "門店編號",
+  "braName": "門店名稱",
+  "braShortName": "門店簡稱",
+  "braStatus": "門店狀態",
+  "braStatus-0": "禁用",
+  "braStatus-1": "啟用",
+  "merId": "商户編號",
+  "merName": "商户名稱"
+}

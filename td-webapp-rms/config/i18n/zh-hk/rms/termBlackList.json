@@ -1,0 +1,14 @@
+{
+  "termBlackList": "終端黑名單",
+  "listTyp": "名單類型",
+  "listTyp-0": "白名單",
+  "listTyp-1": "黑名單",
+  "listTyp-2": "灰名單",
+  "terId": "終端序列號",
+  "terNo": "終端號",
+  "terPhyno": "終端機身號",
+  "operId": "操作員",
+  "operTim": "操作時間",
+  "logId": "操作日誌編號",
+  "validlistTyp": "請填寫名單類型"
+}

@@ -1,0 +1,23 @@
+{
+  "positionManage": "岗位维护",
+  "positionno": "岗位编号",
+  "positioncode": "岗位代码",
+  "positionname": "岗位名称",
+  "systemno": "系统编号",
+  "systemname": "系统名称",
+  "status": "岗位状态",
+  "createobj": "创建人",
+  "createdate": "创建时间",
+  "updateobj": "更新人",
+  "updatedate": "更新时间",
+  "assignRole": "关联角色",
+  "selectedRole": "已选角色",
+  "noSelectedRole": "未选角色",
+  "addPositionRole": "添加角色",
+  "deletePositionRole": "删除角色",
+  "validPositionCode": "请填写岗位代码",
+  "validPositionName": "请填写岗位名称",
+  "statusNotMatch": "请选择状态相同的项目",
+  "addPositionRoleMsg": "至少保留一种角色",
+  "programErr": "数据异常"
+}

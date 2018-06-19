@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="zh-cmn">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+	<title>微信登记</title>
+	<link rel="stylesheet" href="http://cdn.bootcss.com/weui/1.1.0/style/weui.min.css">
+	<link rel="stylesheet" href="http://cdn.bootcss.com/jquery-weui/1.0.0-rc.0/css/jquery-weui.min.css">
+	<style>
+	.wx-header { padding: 35px 0; background-color: #3cc51f; }
+	.wx-title { color: #fff; font-size: 34px; font-weight: 400; margin: 0 15%; text-align: center; }
+	</style>
+</head>
+<body ontouchstart onload="wx_init();">
+	<header class="wx-header"><h1 class="wx-title">微信登记</h1></header>
+	<div class="wx-form-container" style="display: none">
+		<p>&nbsp;</p>
+		<div class="weui-cells weui-cells_form">
+			<input id="wxCode" type="hidden" value="<%=wxCode%>">
+			<input id="wxOpenid" type="hidden" value="">
+			<div class="weui-cell weui-cell_vcode">
+				<div class="weui-cell__hd"><label class="weui-label">手机号</label></div>
+				<div class="weui-cell__bd"><input id="mobile" class="weui-input" placeholder="请输入手机号" type="tel"></div>
+				<div class="weui-cell__ft"><button class="weui-vcode-btn" onclick="wx_code();">获取验证码</button></div>
+			</div>
+			<div class="weui-cell">
+				<div class="weui-cell__hd"><label for="" class="weui-label">验证码</label></div>
+				<div class="weui-cell__bd"><input id="code" class="weui-input" placeholder="请输入验证码"></div>
+			</div>
+		</div>
+		<p>&nbsp;</p>
+		<div class="weui-btn-area">
+			<a id="showTooltips" class="weui-btn weui-btn_primary" href="javascript:" onclick="wx_bind();">确定</a>
+		</div>
+	</div>
+	<p>&nbsp;</p>
+	<div class="weui-loadmore weui-loadmore_line" style="display: none">
+		<span class="weui-loadmore__tips"></span>
+		<p>&nbsp;</p>
+		<a href="javascript:;" class="weui-btn weui-btn_default" onclick="wx_rebind()">重新登记</a>
+	</div>
+	<div class="weui-msg">
+		<div class="weui-msg__text-area">
+			<p class="weui-msg__desc"><b>登记说明：</b></p>
+			<p class="weui-msg__desc">主要登记棠宝运营人员及各代理商。</p>
+			<p class="weui-msg__desc">登记完成后会收到平台的推送消息。</p>
+			<p class="weui-msg__desc">登记前请确保手机号已被棠宝运营平台登记。</p>
+		</div>
+	</div>
+	<div class="weui-footer weui-footer_fixed-bottom">
+		<p class="weui-footer__text">Copyright © 2016 上海棠宝电子商务有限公司</p>
+	</div>
+	<script src="http://cdn.bootcss.com/jquery/1.11.0/jquery.min.js"></script>
+	<script src="http://cdn.bootcss.com/jquery-weui/1.0.0-rc.0/js/jquery-weui.min.js"></script>
+	<script type="text/javascript">
+		var host = "http://103.21.116.93:3000/tombot-web/risk/rest";
+		var checkUrl = host + '/wx/bind'; var codeUrl = host + '/wx/sms/code'; var bindUrl = host + '/wx/bind';
+		// 刷新页面结果信息
+		function info_refresh(info) { $('.weui-loadmore__tips').html(info); }
+		// 重置表单(手机号 及 验证码)
+		function form_reset() { $('#mobile').val(''); $('#code').val(''); }
+		// 校验手机号
+		function mobile_valid() { var result = true; var mobile = $('#mobile').val(); if(!mobile || !/1[3|4|5|7|8]\d{9}/.test(mobile)) { $.toptip('请输入正确的手机号'); result = false; } return result; }
+		// 校验验证码
+		function code_valid() { var result = true; var code = $('#code').val(); if (!code) { $.toptip('请输入正确的验证码'); result = false; } return result; }
+		// 校验表单
+		function form_valid() { return mobile_valid() && code_valid(); }
+		// 发送ajax请求
+		function request(url, param, options) {
+			$.showLoading();
+			if (url !== '') {
+				$.ajax({
+					url: url, data: param, type: options.type ? options.type : 'post', dataType: 'json', cache: false,
+					success: (result, status, xhr) => { if (options && typeof options.success === 'function') { options.success(result); } $.hideLoading(); },
+					error: (req, info, opt) => { $.toptip('请求发送失败'); $.hideLoading(); }
+				});
+			} else {
+				// 模拟ajax请求 START
+				// var res = { rspCod: '200', rspMsg: '操作成功', rspObj: { isBind: '1', userWechat: 'wx111111', code: '4321' } };
+				var res = { rspCod: '200', rspMsg: '操作成功', rspObj: { isBind: '0', userWechat: 'wx111111', code: '1234' } };
+				setTimeout(function () { $.hideLoading(); if (options && typeof options.success === 'function') { options.success(res); } }, 700);
+				// 模拟ajax请求 END
+			}
+		}
+		/* 页面加载完成时执行业务 */
+		function wx_init() {
+			// 校验当前微信是否已经登记在系统中(后台通过微信码获取openId)
+			request(checkUrl, { wxCode: $('#wxCode').val() }, {
+				type: 'get',
+				success: function(result) {
+					if (result.rspCod === '200') {
+						var userWechat = result.rspObj && result.rspObj.userWechat ? result.rspObj.userWechat : '';
+						var isBind = result.rspObj && result.rspObj.isBind ? result.rspObj.isBind : '0';
+						$('#wxOpenid').val(result.rspObj.userWechat);
+						if (isBind === '0') {
+							form_reset(); $('.wx-form-container').show();
+						} else {
+							$('#userWechat').val(result.rspObj.userWechat); info_refresh('该微信已登记'); $('.weui-loadmore').show();
+						}
+					} else {
+						$.toptip(result.rspMsg);
+					}
+				}
+			});
+		}
+		// 获取短信验证码
+		function wx_code() {
+			if (mobile_valid() === true) {
+				request(codeUrl, { userMobile: $('#mobile').val() }, {
+					type: 'get',
+					success: function(result) {
+						if (result.rspCod === '200') {
+							$('#code').val(result.rspObj ? result.rspObj.code : '');
+						} else {
+							$.toptip(result.rspMsg);
+						}
+					}
+				});
+			}
+		}
+		// 微信(openid)登记
+		function wx_bind() {
+			if (form_valid() === true) {
+				const param = { userWechat: $('#wxOpenid').val(), userMobile: $('#mobile').val(), code: $('#code').val() };
+				request(bindUrl, param, {
+					success: function(result) {
+						if (result.rspCod === '200') {
+							$('.wx-form-container').hide(); info_refresh('微信登记完成'); $('.weui-loadmore').show();
+						} else {
+							info_refresh(result.rspMsg);
+						}
+					}
+				});
+			}
+		}
+		function wx_rebind() {
+			form_reset(); $('.weui-loadmore').hide(); $('.wx-form-container').show();
+		}
+	</script>
+</body>
+</html>

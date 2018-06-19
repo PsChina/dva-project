@@ -1,0 +1,22 @@
+{
+  "terminalCompany": "终端厂商管理",
+
+  "copId": "厂商编号",
+  "copNam": "厂商名称",
+  "copShNam": "厂商简称",
+  "copDesc": "厂商描述",
+  "userName": "用户名称",
+  "realName": "真实姓名",
+  "mobile": "手机号码",
+  "email": "电子邮箱",
+  "address": "详细地址",
+  "gender": "性别",
+  "birthday": "生日",
+  "certificateType": "证件类型",
+  "certificateNo": "证件号码",
+  "remark": "备注",
+  "status": "状态",
+  "copContacts": "联系人",
+  "copTel": "联系电话",
+  "copAddr": "联系地址"
+}

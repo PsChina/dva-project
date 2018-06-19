@@ -1,0 +1,19 @@
+{
+  "app": "OMS",
+  "language": "zh-hk",
+  "basLoginHost": "http://139.219.230.184:40000",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://139.196.230.184:18081/",
+  "basProxyApp": "/td-bas-web",
+
+  "omsReqType": "rest",
+  "omsHost": "",
+  "omsApp": "oms",
+  "omsProxy": "http://139.196.230.184:18090/",
+  "omsProxyApp": "/td-oms-web"
+
+  
+}

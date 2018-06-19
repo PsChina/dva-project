@@ -1,0 +1,19 @@
+{
+  "chnType": "渠道类型",
+  "chnName": "渠道名称",
+  "chnMerType": "商户类型",
+  "chnMerNo": "商户号",
+  "chnMerStatus": "商户状态",
+
+  "merId": "商户编号",
+  "merName": "商户名称",
+  "merNo": "商户号",
+
+  "chnType-0": "银联",
+  "chnType-1": "银行",
+  "chnType-2": "第三方金融机构",
+
+  "chnMerType-1": "大商户",
+  "chnMerType-2": "小商户"
+
+}

@@ -1,0 +1,14 @@
+{
+  "userName": "用户名",
+  "oldPasswd": "旧密码",
+  "newPasswd": "新密码",
+  "newPasswdConfirm": "新密码确认",
+  
+  "diffTwoPwd": "两次输入的密码不一致",
+
+  "validUsername": "请填写用户名",
+  "validOldPasswd": "请填写旧密码",
+  "validNewPasswd": "请填写新密码",
+  "validNewPasswdConfirm": "请填写新密码确认",
+  "validPassword": "请填写登录密码"
+}

@@ -1,0 +1,18 @@
+{
+  "terminalFirmware": "终端固件管理",
+
+  "verId": "固件编号",
+  "verNo": "固件版本",
+  "verTyp": "固件类型",
+  "copId": "厂商编号",
+  "copNam": "终端厂商",
+  "terModId": "型号编号",
+  "terModNo": "机具型号",
+  "verTim": "发布时间",
+  "verRemark": "备注",
+
+  "inputFile": "固件上传",
+  "clickToDownload": "点击下载",
+  "fileUploadWarn": "文件上传失败",
+  "fileUploadSuccess": "文件上传成功"
+}

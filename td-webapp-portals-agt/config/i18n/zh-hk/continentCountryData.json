@@ -1,0 +1,18 @@
+[
+  {
+    "value": "1",
+    "label": "亞洲",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "children": [
+      {
+        "value": "2",
+        "label": "台灣",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      }
+    ],
+    "isLeaf": false
+  }
+]

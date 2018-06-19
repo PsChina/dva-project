@@ -1,0 +1,20 @@
+{
+    
+    "terminalBindcard": "终端商户管理",
+    "terminalMercard": "终端商户管理",
+    "terminalMerTermcard": "商户终端信息",
+
+    "braAddr": "地址",
+    "braAddTim": "添加时间",
+    "braConter": "联系人",
+    "braId": "门店编号",
+    "braMobile": "手机号",
+    "braName": "门店名称",
+    "braPost": "邮编",
+    "braShortName": "门店简称",
+    "braStatus": "状态",
+    "braTel": "电话",
+    "merId": "商户编号",
+    "merName": "商户名称",
+    "merNo": "商户号"
+}

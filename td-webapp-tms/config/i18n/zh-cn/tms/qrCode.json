@@ -1,0 +1,31 @@
+{
+    "qrCodeInfoManage": "二维码信息管理",
+    
+    "qrId": "二维码编号",
+    "merId": "商户编号",
+    "merName": "商户名称",
+    "agtId": "代理商编号",
+    "agtName": "代理商名称",
+    "storeId": "门店编号",
+    "storeName": "门店名称",
+    "createUserId": "创建用户编号",
+    "createUserName": "创建用户名称",
+    "createTime": "创建时间",
+    "updateTime": "更新时间",
+    "qrFile": "二维码",
+    "status": "状态",
+    "createNumbers": "数量",
+    "qrContent": "台码",
+
+    "statusNotMatch": "请选择状态相同的项目",
+    "programErr": "数据异常",
+
+    "bindMer": "绑定商户",
+    "bindAgt": "绑定代理商",
+    "bindMerConfirm": "确认要绑定该商户吗?",
+
+
+    "validCreateNumbers": "请输入数量",
+    "attachDetail": "二维码附件详情",
+    "qrCodeFjsrcPic1": "二维码"
+  }

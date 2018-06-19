@@ -1,0 +1,6 @@
+{
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "javascript.validate.enable": false,
+  "editor.minimap.enabled": true,
+  "editor.tabSize": 2
+}

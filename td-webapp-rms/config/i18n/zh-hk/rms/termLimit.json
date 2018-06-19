@@ -1,0 +1,16 @@
+{
+  "terLimitManage": "終端限額管理",
+  "programErr": "數據異常",
+  "statusNotMatch": "請選擇狀態相同的項目",
+  "terId": "終端編號",
+  "limitStatus": "限額狀態",
+  "terOneLimitAmt": "單筆最低消費額",
+  "terOneTopAmt": "單筆消費限額",
+  "terDayTopAmt": "日限額",
+  "terMonTopAmt": "月限額",
+  "terDayTopCount": "日封頂消費筆數",
+  "terMonTopCount": "月封頂消費筆數",
+  "addTim": "添加日期",
+  "updTim": "更新日期",
+  "operId": "操作人"
+}

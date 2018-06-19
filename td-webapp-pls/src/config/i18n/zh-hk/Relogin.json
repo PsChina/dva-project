@@ -1,0 +1,11 @@
+{
+  "password": "密碼:",
+  "passwordPlacehold": "請輸入密碼。",
+  "modelMsg": "登錄超時,請重新登錄。",
+  "success": "登錄成功!",
+  "passwordWrong": "密碼錯誤,您還可以輸入[d]次。",
+  "locked": "密碼已經被鎖定,請[d]分鐘後重試。",
+  "networkError": "網絡錯誤:",
+  "login": "登錄",
+  "hello": "你好"
+}

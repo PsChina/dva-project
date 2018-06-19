@@ -1,0 +1,12 @@
+{
+  "mccChannel": "MCC渠道",
+  "mccCode": "MCC碼",
+  "mccCls": "商户類別",
+  "mccUnistdrat": "行業類型",
+  "mccDesc": "MCC定義",
+  "mccChannel-01": "銀聯",
+  "mccChannel-02": "支付寶",
+  "mccUnistdrat-01": "標準類",
+  "mccUnistdrat-02": "優惠類",
+  "mccUnistdrat-03": "減免類"
+}

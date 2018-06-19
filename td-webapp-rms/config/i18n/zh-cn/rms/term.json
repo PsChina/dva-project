@@ -1,0 +1,15 @@
+{
+  "term": "终端列表",
+  "terId": "终端序列号",
+  "terNo": "终端号",
+  "terPhyNo": "终端机身号",
+  "terAgtId": "代理商编号",
+  "terAgtName": "代理商名称",
+  "terMerId": "商户编号",
+  "terMerName": "商户名称",
+  "terBraId": "门店编号",
+  "terBraName": "门店名称",
+  "terStatus": "状态",
+  "terStatus-0": "禁用",
+  "terStatus-1": "启用"
+}

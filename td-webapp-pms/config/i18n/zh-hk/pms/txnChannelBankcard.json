@@ -1,0 +1,11 @@
+[
+  {
+    "value": "0002",
+    "label": "Visa"
+  },
+  {
+    "value": "0003",
+    "label": "MasterCard"
+  },
+  { "value": "0000", "label": "JCB"}
+]

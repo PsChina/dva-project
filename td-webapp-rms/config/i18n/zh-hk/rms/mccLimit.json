@@ -1,0 +1,16 @@
+{
+  "mccLimitManage": "MCC限額管理",
+  "programErr": "數據異常",
+  "statusNotMatch": "請選擇狀態相同的項目",
+  "mccNo": "MCC編號",
+  "limitStatus": "限額狀態",
+  "mccOneLimitAmt": "單筆最低消費額",
+  "mccOneTopAmt": "單筆消費限額",
+  "mccDayTopAmt": "日限額",
+  "mccMonTopAmt": "月限額",
+  "mccDayTopCount": "日封頂消費筆數",
+  "mccMonTopCount": "月封頂消費筆數",
+  "addTim": "添加日期",
+  "updTim": "更新日期",
+  "operId": "操作人"
+}

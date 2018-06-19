@@ -1,0 +1,32 @@
+{
+  "menuManage": "菜单信息管理",
+  "routeAuth": "分配权限",
+
+  "menuId": "角色编号",
+  "sysId": "系统编号",
+  
+  "sysFrom": "所属服务",
+  "menuName": "菜单名称",
+  "menuDesc": "菜单描述",
+  "menuStatus": "菜单状态",
+  "menuUrl": "菜单路径",
+  "menuIcon": "菜单图标",
+  "creObjName": "创建人",
+  "creTim": "创建时间",
+  "updObjName": "更新人",
+  "updTim": "更新时间",
+  "parentMenuName": "上级菜单名称",
+  
+
+  "statusNotMatch": "请选择状态相同的项目",
+  "programErr": "数据异常",
+
+  "validMenuName": "请填写菜单名称",
+  "validSysFrom": "请选择所属系统",
+  "validMenuIcon": "请选择菜单图标",
+  "addNotice": "请选中一条记录添加菜单",
+  "enableConfirm": "确认要启用指定项目及其子菜单吗？",
+  "disableConfirm" :"确认要禁用指定项目及其子菜单吗？",
+  "deleteConfirm": "确认要删除指定项目及其子菜单吗？",
+  "topMenuDeleteNotice": "顶级菜单不可以删除"
+}

@@ -1,0 +1,15 @@
+{
+  "term": "終端列表",
+  "terId": "終端序列號",
+  "terNo": "終端號",
+  "terPhyNo": "終端機身號",
+  "terAgtId": "代理商編號",
+  "terAgtName": "代理商名稱",
+  "terMerId": "商户編號",
+  "terMerName": "商户名稱",
+  "terBraId": "門店編號",
+  "terBraName": "門店名稱",
+  "terStatus": "狀態",
+  "terStatus-0": "禁用",
+  "terStatus-1": "啟用"
+}

@@ -1,0 +1,50 @@
+{
+  "terminal": "渠道终端管理",
+
+  "chnId": "渠道编号",
+  "chnTermNo": "终端号",
+  "chnMerNo": "渠道商户号",
+  "chnMerName": "商户名称",
+
+  "termStatus": "终端状态",
+  "creTim": "创建时间",
+  "uptTim": "更新时间",
+
+  "isSign": "签到状态",
+  "signTime": "签到时间",
+  "chnPinkey": "渠道PIN密钥",
+  "chnMackey": "渠道MAC密钥",
+  "chnTdkkey": "渠道磁道密钥",
+  "chnTmkkey": "渠道终端主密钥",
+  "checkValue": "主密钥校验值",
+  "checkStatus": "主密钥校验状态",
+
+  "chnType": "渠道类型",
+  "chnName": "渠道名称",
+  "chnMerType": "商户类型",
+
+  "chnType-0": "银联",
+  "chnType-1": "银行",
+  "chnType-2": "第三方金融机构",
+
+  "chnMerType-1": "大商户",
+  "chnMerType-2": "小商户",
+
+  "exitEnable": "请先禁用所选终端",
+  "programErr": "数据异常",
+  "statusNotMatch": "请选择状态相同的项目！",
+  "enableConfirm": "确认要开启指定项目吗？",
+  "disableConfirm": "确认要关闭指定项目吗？",
+
+  "isSign-0": "未签到",
+  "isSign-1": "已签到",
+
+  "keyDetail": "密钥信息",
+  "updateKeyInfo": "修改密钥",
+
+  "checkStatus-0": "未校验",
+  "checkStatus-1": "已校验",
+
+  "addTerm": "添加终端",
+  "terNo": "终端号"
+}

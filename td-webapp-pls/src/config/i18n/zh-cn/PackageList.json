@@ -1,0 +1,55 @@
+{
+    "success":"登陆成功",
+    "name":"套餐名称",
+    "logo":"套餐logo",
+    "industry":"所属行业",
+    "supportHardware":"支持硬件",
+    "posHardware":"pos硬件",
+    "monthlyOriginalPrice":"月租原价",
+    "monthlyCurrentPrice":"月租现价",
+    "offer":"优惠活动",
+    "operation":"操作",
+    "newMeal":"新增套餐",
+    "ok":"确认",
+    "cancel":"取消",
+    "type":"所属分类",
+    "level":"所属级别",
+    "Hardware":"云智慧pos机",
+    "usefulLife":"有效期",
+    "smartPOS":"云智慧系统机",
+    "cajas":"云智慧零售pos系统机（双屏）",
+    "timeText":"赠送[d]月",
+    "addSuccess":"添加套餐成功",
+    "addError":"添加失败",
+
+    "mealStatus":"状态",
+    "isEnable":"是否启用",
+
+    "delete":"删除",
+    "deleteSuccess":"删除成功",
+    "deleteError":"删除失败",
+
+    "enable":"已启用",
+    "didForbidden":"已禁用",
+
+    "forbiddenMeal":"禁用",
+    "forbiddenSuccess":"禁用成功",
+    "forbiddenFail":"禁用失败",
+
+    "toEnable":"启用",
+    "enableSuccess":"启用成功",
+    "enableFail":"启用失败",
+
+    "didOnline":"已发布",
+    "didOffline":"已下线",
+
+    "online":"发布",
+    "onlineSuccess":"发布成功",
+    "onlineError":"发布失败",
+    "offline":"下线",
+    "offlineSuccess":"下线成功",
+    "offlineError":"下线失败",
+    "longTerm":"长期",
+    "shortTerm":"短期",
+    "setUsefulLife":"设置有效期"
+}

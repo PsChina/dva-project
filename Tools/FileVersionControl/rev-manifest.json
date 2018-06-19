@@ -1,0 +1,22 @@
+{
+  "channelBankcardApply.js": "channelBankcardApply-e194af6284.js",
+  "channelBankcardManage.js": "channelBankcardManage-1e140f7608.js",
+  "channelScancodeApply.js": "channelScancodeApply-9d9ca5baa3.js",
+  "channelScancodeManage.js": "channelScancodeManage-47cd406927.js",
+  "channelTransferApply.js": "channelTransferApply-fec37aec1b.js",
+  "index.css": "index-56b9e13d29.css",
+  "index.js": "index-42af20f86f.js",
+  "merChantScancodeApply.js": "merChantScancodeApply-d184f59103.js",
+  "merChantTransferApply.js": "merChantTransferApply-2f389c9a3d.js",
+  "merSmartRouterManage.js": "merSmartRouterManage-6d3a1509db.js",
+  "merchantBankcardApply.js": "merchantBankcardApply-ece4e6bd24.js",
+  "merchantBankcardManage.js": "merchantBankcardManage-c818e4997d.js",
+  "merchantScancodeManage.js": "merchantScancodeManage-42968a2fea.js",
+  "merchantTransferManage.js": "merchantTransferManage-f857c9bb44.js",
+  "routerBankcardModManage.js": "routerBankcardModManage-b6d27d0adb.js",
+  "routerMerBankcardManage.js": "routerMerBankcardManage-0a8d2e0bcb.js",
+  "routerMerScancodeManage.js": "routerMerScancodeManage-bed78609ca.js",
+  "routerScancodeModManage.js": "routerScancodeModManage-4fba32f401.js",
+  "terminalBankcardManage.js": "terminalBankcardManage-71edbd9052.js",
+  "terminalCompanyManage.js": "terminalCompanyManage-c94400017b.js"
+}

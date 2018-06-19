@@ -1,0 +1,21 @@
+{
+  "app": "AMS",
+  "language": "zh-hk",
+  "loginUrl": "http://pay-center.trendlab.ai/",
+
+  "amsReqType": "rest",
+  "amsHost": "ams.dev.trend-lab.cn",
+  "amsApp": "ams",
+  "amsProxy": "http://ams.dev.trend-lab.cn/",
+  "amsProxyApp": "/td-ams-web",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://bas.dev.trend-lab.cn/",
+  "basProxyApp": "/td-bas-web",
+
+  "mmsReqType": "rest",
+  "mmsApp": "mms",
+  "mmsProxy": "http://mms.dev.trend-lab.cn/"
+}

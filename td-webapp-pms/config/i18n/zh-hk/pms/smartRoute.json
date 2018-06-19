@@ -1,0 +1,23 @@
+{
+  "merchantSmartRouteManage": "商户智能路由管理",
+  "merId": "商户編號",
+  "merName": "商户名稱",
+  "merNo": "商户號",
+  "txnChannel": "收款方式",
+  "txnChannel-0001": "銀聯卡",
+  "txnChannel-0002": "VISA",
+  "txnChannel-0003": "MasterCard",
+  "txnChannel-1011": "支付寶",
+  "txnChannel-1012": "微信",
+  "txnChannel-1014": "橘子支",
+  "txnChannel-1015": "歐付寶",
+  "txnChannel-1016": "linepay",
+  "validTxnChannel": "請選擇收款方式",
+  "validSmartRoute": "請選擇智能路由狀態",
+  "exitEnable": "請先關閉所選商户智能路由狀態",
+  "programErr": "數據異常",
+  "statusNotMatch": "請選擇狀態相同的項目！",
+  "smartRoute": "智能路由",
+  "smartRoute-0": "關",
+  "smartRoute-1": "開"
+}

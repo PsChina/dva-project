@@ -1,0 +1,31 @@
+{
+  "validChnName": "请选择渠道",
+  "validPreChnName": "请先选择渠道",
+  "validChnMerNo": "请输入不超过15位只包含数字的商户号",
+  "validChnMerName": "请输入商户名称",
+  "validChnMerType": "请选择商户类型",
+  "validTerNo": "请输入终端号",
+
+  "validAreaCode": "请选择交易地区",
+  "validTxnTimeStr": "请选择起始时间",
+  "validTxnTimeEnd": "请选择结束时间",
+
+  "validHashKey": "请输入商店HashKey",
+  "validHashIV": "请输入商店HashIV",
+
+  "validFeeMode": "请选择计费方式",
+  "validMinBill": "请输入最低手续费",
+  "validDebitCardRate": "请输入借记卡费率",
+  "validCreditCardRate": "请输入贷记卡费率",
+  "validChnPinkey": "请输入渠道PIN密钥",
+  "validChnMackey": "请输入渠道MAC密钥",
+  "validChnTdkkey": "请输入渠道磁道密钥",
+  "validChnTmkkey": "请输入渠道终端主密钥",
+  "validCorrect": "请输入正确字符",
+
+  "validChnMerNoRepeat": "该渠道下该商户已存在",
+
+  "validFilePath": "请上传文件",
+  "validTxnChannelSupport": "请选择收款方式",
+  "validTxnChannel": "请选择支付渠道"
+}

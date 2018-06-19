@@ -1,0 +1,23 @@
+{
+  "vaildMobile": "請輸入正確的手機號碼",
+  "vaildAddrCodError": "地址編碼錯誤",
+  "vaildNumAccountsError": "校驗位錯誤",
+  "vaildIdFormatError": "身分格式錯誤",
+  "vaildNumLtHundred": "請輸入100（含）以下的數字",
+  "vaildIsAllNum": "請輸入數字",
+  "vaildNotAllSpace": "不能全部輸入空格",
+  "vaildIdentifiedZhnEn": "只能輸入中文與英文，中文與英文不能同時出現,且不能超過30位",
+  "vaildOnlyZhnEnNum": "請輸入中文、英文和數字",
+  "vaildIsCorrectPost": "請輸入有效的郵編",
+  "vaildIsCorrectFax": "請輸入有效的傳真",
+  "vaildIsCorrectPhoneNo": "請輸入有效的電話，如：0835-88888888",
+  "valildTWApId": "證件號格式應為首字母+9位數字",
+  "vaildIsContainNum": "不能含有數字",
+  "vaildOnlyChracterNumLine": "只能輸入字母，數字與下劃線與'-'",
+  "vaildIsCorrectAmt": "請輸入正確的金額",
+  "vaildIsCorrectUrl": "請輸入正確的服務地址",
+  "vaildIsCorrectEmail": "請輸入有效的郵箱",
+  "vaildMerSnameError": "請輸入小於二十位的商户簡稱",
+  "vaildBraNameError": "請輸入小於二十位的門店名稱",
+  "valildPassport": "護照格式錯誤"
+}

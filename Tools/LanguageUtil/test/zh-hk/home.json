@@ -1,0 +1,9 @@
+{
+  "expOrdTitle": "當前異常訂單情況",
+  "faultTerTitle": "當前故障終端情況",
+  "lackTerTitle": "當前缺液終端情況",
+  "lackDesc": "當前 x 台終端缺液",
+  "noLackDesc": "當前終端均未缺液",
+  "faultDesc": "當前 x 台終端故障",
+  "noFaultDesc": "當前終端均正常運作"
+}

@@ -1,0 +1,15 @@
+{
+  "vaildBraName": "請輸入門店名稱",
+  "vaildBraShortName": "請輸入分店名稱",
+  "vaildMobile": "請輸入手機號碼",
+  "braConter": "請輸入聯繫人名稱",
+  "braTel": "請輸入聯繫人電話",
+  "braPost": "請輸入門店郵編",
+  "vaildAddress": "請輸入門店所屬地區",
+  "vaildBraAddr": "請輸入門店地址",
+  "vaildBraUsrRole": "請選擇用户角色",
+  "vaildBraUsrId": "請選擇其中一個門店",
+  "vaildUsrName": "請輸入用户名",
+  "vaildUsrRealName": "請輸入人員姓名",
+  "vaildUsrPW": "請輸入人員密碼"
+}

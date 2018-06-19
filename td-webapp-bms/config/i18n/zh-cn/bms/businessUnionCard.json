@@ -1,0 +1,17 @@
+{
+  "unionCardBizConfig": "银联卡业务配置",
+  "unionCardBizInfo": "银联卡业务详情",
+  "merId": "商户编号",
+  "merName": "商户名称",
+  "merInd": "商户行业",
+  "merMcc": "商户MCC",
+  "dcardRate": "借记卡费率",
+  "ccardRate": "贷记卡费率",
+  "dcardLim": "封顶手续费",
+  "ccardLim": "封顶手续费",
+  "feeMin": "最低手续费",
+
+  "ind-1": "一般类",
+  "ind-2": "优惠类",
+  "ind-3": "减免类"
+}

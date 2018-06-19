@@ -1,0 +1,17 @@
+{
+  "holidayManage": "節假日管理",
+  "changeDayTypeTitelConfirm": "確認將{d}設為:",
+  "DayType-0": "工作日",
+  "DayType-1": "非工作日",
+  "DayType-2": "非工作日",
+  "name": "服務名",
+  "providers": "提供者",
+  "consumners": "消費者",
+  "status": "狀態",
+  "uuid": "",
+  "see": "查看",
+  "status-1": "正常",
+  "status-2": "沒有提供者",
+  "status-3": "沒有消費者",
+  "routeAuth": "分配權限"
+}

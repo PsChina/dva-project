@@ -1,0 +1,17 @@
+{
+  "unionCard": "Union",
+  "visaCard": "Visa",
+  "masterCard": "Master",
+  "aliPay": "Alipay",
+  "wechat": "Wechat",
+
+  "total": "总量",
+  "waitStl": "待结算金额",
+  "shouldStl": "应结算金额",
+
+  "last15DayPay": "近15天交易情况",
+  "todaySettle":"当日结算情况",
+  "todayPay": "当日交易情况",
+  "storePay": "当日门店交易Top5",
+  "termPay": "当日终端交易Top5"
+}

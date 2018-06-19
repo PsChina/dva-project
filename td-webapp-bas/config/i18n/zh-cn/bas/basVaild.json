@@ -1,0 +1,18 @@
+{
+  "validOrgId": "机构编号不能为空",
+  "validOrgName": "机构名不能为空",
+  "validOldPwd": "旧密码不能为空",
+  "validNewPwd": "新密码不能为空",
+  "validNewPwdRepeat": "确认密码不能为空",
+  "validNewPwdMatch": "两次输入新密码不一致",
+  "newPwdNotEqualOldPwd": "修改密码不能与原密码相同",
+  "validJobName": "任务名不能为空",
+  "validJobCron": "Cron表达式不能为空",
+  "validJobDesc": "任务描述不能为空",
+  "validExecutorAddress": "执行地址不能为空",
+  "validExecutorHandler": "jobHandler不能为空",
+  "validAuthor": "负责人不能为空",
+  "validAlarmEmail": "报警邮件不能为空",
+  "validAlarmThreshold": "报警阀值不能为空并且为正整数",
+  "vaildPassword": "密码为字母加数字组合"
+}

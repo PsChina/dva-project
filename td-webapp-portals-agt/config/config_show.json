@@ -1,0 +1,12 @@
+{
+  "app": "AGTP",
+  "language": "zh-hk",
+  "loginUrl": "http://139.196.230.184:40010",
+
+  "agtpReqType": "rest",
+  "agtpHost": "",
+  "agtpApp": "agtp",
+  "agtpProxy": "http://139.196.230.184:40010/",
+  "agtpProxyApp": "/td-agtp-web",
+  "agtpFileHost": "http://139.196.230.184:24001/"
+}

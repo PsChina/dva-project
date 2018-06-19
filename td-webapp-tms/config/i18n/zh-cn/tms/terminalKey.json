@@ -1,0 +1,18 @@
+{
+  "terminalKey": "终端密钥管理",
+  "enupdate": "已更新",
+  "disupdate": "未更新",
+  "terId": "终端ID",
+  "terPhyno": "机身号",
+  "terNo": "终端号",
+  "lmkkey": "加密机主密钥",
+  "zmkkey": "终端主密钥",
+  "zmkkeyUpdateTime": "主键更新时间",
+  "tmkChk": "主密钥校验值",
+  "lpinkey": "终端PIN密钥",
+  "lmackey": "终端MAC密钥",
+  "ltdkey": "终端磁道密钥",
+  "wkKeyUpdateTime": "更新时间",
+  "sysPassword": "密码",
+  "setManaPassword": "请输入密码"
+}

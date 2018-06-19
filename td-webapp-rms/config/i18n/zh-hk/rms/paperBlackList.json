@@ -1,0 +1,11 @@
+{
+  "paperBlackList": "證件黑名單",
+  "listTyp": "名單類型",
+  "listTyp-0": "白名單",
+  "listTyp-1": "黑名單",
+  "listTyp-2": "灰名單",
+  "operTim": "操作時間",
+  "operId": "操作員",
+  "logId": "操作日誌編號",
+  "validListType": "請填寫名單類型"
+}

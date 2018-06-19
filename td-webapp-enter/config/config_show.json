@@ -1,0 +1,14 @@
+{
+  "app": "ENTER",
+  "language": "zh-hk",
+  "loginUrl": "http://193.112.243.228:40000",
+  "pmsProxy": "http://193.112.243.228:40005",
+  "pmsProxyApp": "/td-mms-web",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://193.112.243.228:40000",
+  "basProxyApp": "/td-bas-web"
+
+}

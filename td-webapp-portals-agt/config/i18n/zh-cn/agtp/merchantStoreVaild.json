@@ -1,0 +1,11 @@
+{
+  "vaildMerId": "请选择所属商户",
+  "vaildBraName": "请输入门店名称",
+  "vaildBraShortName": "请输入分店名称",
+  "vaildMobile": "请输入手机号码",
+  "braConter": "请输入联系人名称",
+  "braTel": "请输入联系人电话",
+  "braPost": "请输入门店邮编",
+  "vaildAddress": "请输入门店所属地区",
+  "vaildBraAddr": "请输入门店地址"
+}

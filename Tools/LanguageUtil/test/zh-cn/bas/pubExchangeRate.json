@@ -1,0 +1,38 @@
+{
+  "pubExchangeRateManage": "汇率信息管理",
+  "exchangeRateId": "汇率编号",
+  "fromCurrency": "基准币种",
+  "toCurrency": "对应币种",
+  "dataCollectingTime": "收集时间",
+  "createTime": "生成时间",
+  "rate": "基础汇率",
+  "upRate": "默认买入浮动比例",
+  "downRate": "默认卖出浮动比例",
+  "riskRateFloat": "风险浮动比例",
+  "status": "状态",
+  "status-1": "启用",
+  "status-0": "禁用",
+
+  "baseRate": "基准汇率",
+  "salePrice": "卖出价",
+  "buyPrice": "买入价",
+
+  "defaultBuyingRateFloatDesc": "买入价：本币折算外币，相当于银行卖出本币买入外币",
+  "defaultSellingRateFloatDesc": "卖出价：外币折算本币，相当于银行卖出外币买入本币",
+
+  "riskSlidingScale": "最小单位：小数位数",
+  "dataSource": "数据来源",
+  "sourceKey": "密钥",
+  "creatTime": "创建时间",
+  "updateTime": "更新时间",
+  "creatObj": "创建人",
+  "updateObj": "更新人",
+
+  "validDataSource": "请填写数据来源",
+  "validSourceKey": "请填写密钥",
+  "validUpRate": "请填写默认买入浮动比例",
+  "validDownRate": "请填写默认卖出浮动比例",
+  "validRiskRateFloat": "请填写风险浮动比例",
+  "validFromCurrency": "请填写基准币种",
+  "validToCurrency": "请填写对应币种"
+}

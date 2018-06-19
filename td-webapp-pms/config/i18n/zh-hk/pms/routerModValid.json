@@ -1,0 +1,8 @@
+{
+  "validModNo": "請輸入模版編號",
+  "validModName": "請輸入模版名稱",
+  "validModSmartRoute": "請選擇智能路由模式",
+  "validModTxnChannel": "請選擇支付渠道",
+  "validModNoRepeat": "該模版編號不可用",
+  "validModNo-0": "只包含字母、數字、下劃線與-"
+}

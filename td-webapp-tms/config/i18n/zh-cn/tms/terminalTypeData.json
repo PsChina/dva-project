@@ -1,0 +1,70 @@
+[
+    {
+        "value": "01",
+        "label": "智能POS机",
+        "children": []
+    },
+    {
+        "value": "02",
+        "label": "传统POS机",
+        "children": [
+            {
+                "value": "00",
+                "label": "其他"
+            },
+            {
+                "value": "01",
+                "label": "拨号POS机"
+            },
+            {
+                "value": "02",
+                "label": "移动POS机"
+            }
+        ]
+    },
+    {
+        "value": "03",
+        "label": "虚拟终端",
+        "children": [
+            {
+                "value": "00",
+                "label": "Android"
+            },
+            {
+                "value": "01",
+                "label": "IOS"
+            }
+        ]
+    },
+    {
+        "value": "04",
+        "label": "手机POS",
+        "children": []
+    },
+    {
+        "value": "05",
+        "label": "MPOS",
+        "children": [
+            {
+                "value": "01",
+                "label": "蓝牙(带键盘)"
+            },
+            {
+                "value": "02",
+                "label": "蓝牙"
+            },
+            {
+                "value": "03",
+                "label": "音频"
+            },
+            {
+                "value": "04",
+                "label": "PC客户端"
+            },
+            {
+                "value": "05",
+                "label": "传统收银"
+            }
+        ]
+    }
+]

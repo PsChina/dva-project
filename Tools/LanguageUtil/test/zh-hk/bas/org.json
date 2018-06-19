@@ -1,0 +1,18 @@
+{
+  "orgManage": "機構管理",
+  "orgId": "機構編號",
+  "orgName": "機構名稱",
+  "parentOrgId": "上級機構",
+  "orgDesc": "機構描述",
+  "isUse": "是否使用",
+  "creObj": "創建人",
+  "creTim": "創建時間",
+  "updObj": "更新人",
+  "updTim": "更新時間",
+  "alertMsg": "組織架構, 請在節點上點擊鼠標右鍵操作",
+  "addChildOrg": "新增子機構",
+  "updateOrg": "修改本機構",
+  "deleteOrg": "刪除本機構",
+  "enableOrg": "啟用本機構",
+  "disableOrg": "禁用本機構"
+}

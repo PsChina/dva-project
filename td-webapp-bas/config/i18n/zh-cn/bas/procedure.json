@@ -1,0 +1,22 @@
+{
+  "procedureManage": "步骤维护",
+
+  "nodeno": "步骤编号",
+  "nodename": "步骤名称",
+  "systemno": "系统编号",
+  "systemname": "系统名称",
+  "status": "步骤状态",
+  "nodetype": "步骤类型",
+
+  "createobj": "创建人",
+  "createdate": "创建时间",
+  "updateobj": "更新人",
+  "updatedate": "更新时间",
+
+  "validModelName": "请选择工作流名称",
+  "validPositionName": "请填写岗位名称",
+  "validNodelName": "请填写步骤名称",
+  "statusNotMatch": "请选择状态相同的项目",
+  "programErr": "数据异常",
+  "selectOne": "请选择单条记录禁用"
+}

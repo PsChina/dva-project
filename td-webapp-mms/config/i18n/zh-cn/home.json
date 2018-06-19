@@ -1,0 +1,9 @@
+{
+  "expOrdTitle": "当前异常订单情况",
+  "faultTerTitle": "当前故障终端情况",
+  "lackTerTitle": "当前缺液终端情况",
+  "lackDesc": "当前 x 台终端缺液",
+  "noLackDesc": "当前终端均未缺液",
+  "faultDesc": "当前 x 台终端故障",
+  "noFaultDesc": "当前终端均正常运作"
+}

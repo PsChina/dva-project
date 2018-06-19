@@ -1,0 +1,29 @@
+{
+  "app": "MMS",
+  "language": "zh-hk",
+  "loginUrl": "http://pay-center.trendlab.ai",
+
+  "mmsReqType": "rest",
+  "mmsHost": "",
+  "mmsApp": "mms",
+  "mmsProxy": "http://mms.dev.trend-lab.cn",
+  "mmsProxyApp": "/td-mms-web",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://bas.dev.trend-lab.cn",
+  "basProxyApp": "/td-bas-web",
+
+  "pmsReqType": "rest",
+  "pmsHost": "",
+  "pmsApp": "pms",
+  "pmsProxy": "http://pms.dev.trend-lab.cn",
+  "pmsProxyApp": "/td-mms-web",
+
+  "amsHost": "",
+  "amsApp": "ams",
+  "amsProxy": "http://ams.dev.trend-lab.cn",
+  "amsProxyApp": "/td-ams-web",
+  "amsReqType":"rest"
+}

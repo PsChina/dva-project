@@ -1,0 +1,19 @@
+{
+  "blackListLog": "黑名單操作日誌",
+  "objId": "對象編號",
+  "objTyp": "對象類型",
+  "objTyp-01": "銀行卡",
+  "objTyp-02": "商户",
+  "objTyp-03": "門店",
+  "objTyp-04": "終端",
+  "objTyp-05": "身分證",
+  "objTyp-06": "會員",
+  "objTyp-07": "MCC",
+  "objTyp-99": "其他",
+  "blackLogTyp-01": "添加",
+  "blackLogTyp-02": "修改",
+  "blackLogTyp-03": "刪除",
+  "blackLogTyp": "操作類型",
+  "operId": "操作員",
+  "operTim": "操作時間"
+}

@@ -1,0 +1,69 @@
+{
+  "tab-1": "对账结果",
+  "tab-2": "人工对账",
+
+  "sucDetail": "对账成功记录",
+
+  "chnName": "渠道名称",
+  "chkDat": "对账日期",
+  "ccyCod": "币种",
+  "chkTotCnt": "对账总笔数",
+  "chkTotAmt": "对账总金额",
+  "sucTotCnt": "成功总笔数",
+  "sucTotAmt": "成功总金额",
+  "errTotCnt": "失败总笔数",
+  "errTotAmt": "失败总金额",
+  "doubtTotCnt": "存疑总笔数",
+  "doubtTotAmt": "存疑总金额",
+
+  "upload": "附件上传",
+  "inputFile": "导入文件",
+
+  "switch-up": "开",
+  "switch-down": "关",
+
+  "ttxnId": "渠道交易编号",
+  "txnId": "交易编号",
+  "tmerNo": "渠道商户号",
+  "ttermNo": "渠道终端号",
+  "txnTime": "交易时间",
+  "txnAmt": "交易金额",  
+  "txnType": "交易类型",
+  "seqNo": "交易流水号",
+  "batNo": "交易批次号",
+  "autCod": "授权码",
+
+  "chnChkSts": "对账状态",
+
+  "chnChkSts-00": "未对账",
+  "chnChkSts-01": "已对平",
+  "chnChkSts-02": "业务多账",
+  "chnChkSts-03": "渠道多账",
+  "chnChkSts-04": "金额不符",
+
+  "chnBuzType": "业务类型",
+  "chnBuzType-0100": "互联网",
+  "chnBuzType-0001": "刷卡",
+  "chnBuzType-1000": "扫码",
+
+  "txnType-A": "余额查询",
+  "txnType-S": "消费",
+  "txnType-C": "冲正",
+  "txnType-R": "撤销",
+  "txnType-P": "预授权",
+  "txnType-T": "退货",
+  "txnType-U": "正扫",
+  "txnType-M": "反扫",
+  "txnType-E": "预授权完成",
+
+  "fileUploadWarn": "文件上传失败",
+  "fileUploadSuccess": "文件上传成功",
+
+  "txnChannel": "支付方式",
+  "txnChannel-0001": "银联卡",
+  "txnChannel-0002": "VISA",
+  "txnChannel-0003": "MasterCard",
+  "txnChannel-0004": "预付卡",
+  "txnChannel-1011": "支付宝",
+  "txnChannel-1012": "微信"
+}

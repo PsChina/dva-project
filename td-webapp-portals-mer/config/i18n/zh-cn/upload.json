@@ -1,0 +1,11 @@
+{
+  "zoomIn": "放大",
+  "zoomOut": "缩小",
+  "restore": "还原",
+  "uploading": "上传中...",
+  "uploadFin": "上传完成",
+  "uploadFail": "上传失败",
+  "uploadPicTip": "请上传图片",
+  "uploadFileTip": "请上传文件",
+  "uploadTypeTip": "请上传指定类型的文件"
+}

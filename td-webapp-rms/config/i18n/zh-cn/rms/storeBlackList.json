@@ -1,0 +1,13 @@
+{
+  "storeBlackList": "门店黑名单",
+
+  "listType": "名单类型",
+  "listType-0": "白名单",
+  "listType-1": "黑名单",
+  "listType-2": "灰名单",
+  "creatTime": "操作时间",
+  "creatObject": "操作员",
+  "logId": "操作日志编号",
+
+  "validListType": "请填写名单类型"
+}

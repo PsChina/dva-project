@@ -1,0 +1,14 @@
+{
+  "bizConfig": "业务配置",
+  "t0BizConfig": "T+0 业务配置",
+  "d0BizConfig": "D+0 业务配置",
+  "bizDetail": "业务详情",
+  "t0BizDetail": "T+0 业务详情",
+  "d0BizDetail": "D+0 业务详情",
+
+  "serviceFee": "服务费率",
+  "serviceFeeLimit": "服务费封顶",
+  "serviceMaxLimit": "结算封顶",
+
+  "t0First": "请先开通T+0业务"
+}

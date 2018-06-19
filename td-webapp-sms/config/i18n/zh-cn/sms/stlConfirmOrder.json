@@ -1,0 +1,34 @@
+{
+    "id":"结算编号",
+    "stlWay":"到账方式",
+    "ccyCod":"币种",
+    "outAmt":"划款金额",
+    "outFee":"划款渠道手续费",
+    "outDate":"划款日期",
+    "outBank":"划款银行联行号",
+    "outAcc":"划款账户",
+    "coreAccSts":"核心记账状态",
+    "coreActDat":"会计日期",
+    "coreJrnNo":"核心流水号",
+    "outChnId":"划款渠道编号",
+    "outChnName":"划款渠道名称",
+    "outChnTim":"通道记账时间",
+    "outChnJrnNo":"通道流水号",
+    "outSts":"划款状态",
+
+    "stlWay-01":"支付账户",
+    "stlWay-02":"银行账户",
+
+    "coreAccSts-01":"预计",
+    "coreAccSts-02":"成功",
+    "coreAccSts-03":"失败",
+
+    "outSts-01":"划款成功",
+    "outSts-02":"待划款",
+    "outSts-03":"划款中",
+    "outSts-04":"划款失败",
+
+    "ccyCod-CNY": "人民币",
+    "outAmtOperating":"划款",
+    "batchOutAmt":"批量划款"
+}

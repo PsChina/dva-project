@@ -1,0 +1,2435 @@
+[
+  {
+    "value": "1",
+    "label": "亞洲",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "children": [
+      {
+        "value": "2",
+        "label": "台灣",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "children": [
+          {
+            "value": "3",
+            "label": "台灣",
+            "areaParentCode": "2",
+            "areaLevel": "3",
+            "children": [
+              {
+                "value": "4",
+                "label": "台北市",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "26",
+                    "label": "松山區",
+                    "areaParentCode": "4",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "27",
+                    "label": "大安區",
+                    "areaParentCode": "4",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "28",
+                    "label": "大同區",
+                    "areaParentCode": "4",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "29",
+                    "label": "中山區",
+                    "areaParentCode": "4",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "30",
+                    "label": "內湖區",
+                    "areaParentCode": "4",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "31",
+                    "label": "南港區",
+                    "areaParentCode": "4",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "32",
+                    "label": "士林區",
+                    "areaParentCode": "4",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "33",
+                    "label": "北投區",
+                    "areaParentCode": "4",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "34",
+                    "label": "信義區",
+                    "areaParentCode": "4",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "35",
+                    "label": "中正區",
+                    "areaParentCode": "4",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "36",
+                    "label": "萬華區",
+                    "areaParentCode": "4",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "37",
+                    "label": "文山區",
+                    "areaParentCode": "4",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "5",
+                "label": "台中市",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "38",
+                    "label": "豐原區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "39",
+                    "label": "東勢區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "40",
+                    "label": "大甲區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "41",
+                    "label": "清水區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "42",
+                    "label": "沙鹿區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "43",
+                    "label": "梧棲區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "44",
+                    "label": "后里區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "45",
+                    "label": "神岡區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "46",
+                    "label": "潭子區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "47",
+                    "label": "大雅區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "48",
+                    "label": "新社區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "49",
+                    "label": "石岡區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "50",
+                    "label": "外埔區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "51",
+                    "label": "大安區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "52",
+                    "label": "烏日區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "53",
+                    "label": "大肚區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "54",
+                    "label": "龍井區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "55",
+                    "label": "霧峯區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "56",
+                    "label": "太平區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "57",
+                    "label": "大里區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "58",
+                    "label": "和平區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "59",
+                    "label": "中區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "60",
+                    "label": "東區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "61",
+                    "label": "西區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "62",
+                    "label": "南區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "63",
+                    "label": "北區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "64",
+                    "label": "西屯區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "65",
+                    "label": "南屯區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "66",
+                    "label": "北屯區",
+                    "areaParentCode": "5",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "6",
+                "label": "台南市",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "67",
+                    "label": "新營區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "68",
+                    "label": "鹽水區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "69",
+                    "label": "白河區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "70",
+                    "label": "麻豆區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "71",
+                    "label": "佳里區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "72",
+                    "label": "新化區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "73",
+                    "label": "善化區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "74",
+                    "label": "學甲區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "75",
+                    "label": "柳營區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "76",
+                    "label": "後壁區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "77",
+                    "label": "東山區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "78",
+                    "label": "下營區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "79",
+                    "label": "六甲區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "80",
+                    "label": "官田區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "81",
+                    "label": "大內區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "82",
+                    "label": "西港區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "83",
+                    "label": "七股區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "84",
+                    "label": "將軍區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "85",
+                    "label": "北門區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "86",
+                    "label": "新市區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "87",
+                    "label": "安定區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "88",
+                    "label": "山上區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "89",
+                    "label": "玉井區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "90",
+                    "label": "楠西區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "91",
+                    "label": "南化區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "92",
+                    "label": "左鎮區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "93",
+                    "label": "仁德區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "94",
+                    "label": "歸仁區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "95",
+                    "label": "關廟區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "96",
+                    "label": "龍崎區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "97",
+                    "label": "永康區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "98",
+                    "label": "東區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "99",
+                    "label": "南區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "100",
+                    "label": "中西區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "101",
+                    "label": "北區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "102",
+                    "label": "安南區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "103",
+                    "label": "安平區",
+                    "areaParentCode": "6",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "7",
+                "label": "高雄市",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "104",
+                    "label": "鳳山區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "105",
+                    "label": "岡山區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "106",
+                    "label": "旗山區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "107",
+                    "label": "美濃區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "108",
+                    "label": "林園區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "109",
+                    "label": "大寮區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "110",
+                    "label": "大樹區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "111",
+                    "label": "仁武區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "112",
+                    "label": "大社區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "113",
+                    "label": "鳥鬆區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "114",
+                    "label": "橋頭區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "115",
+                    "label": "燕巢區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "116",
+                    "label": "田寮區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "117",
+                    "label": "阿蓮區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "118",
+                    "label": "路竹區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "119",
+                    "label": "湖內區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "120",
+                    "label": "茄萣區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "121",
+                    "label": "永安區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "122",
+                    "label": "彌陀區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "123",
+                    "label": "梓官區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "124",
+                    "label": "六龜區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "125",
+                    "label": "甲仙區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "126",
+                    "label": "杉林區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "127",
+                    "label": "內門區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "128",
+                    "label": "茂林區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "129",
+                    "label": "桃源區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "130",
+                    "label": "那瑪夏區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "131",
+                    "label": "鹽埕區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "132",
+                    "label": "鼓山區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "133",
+                    "label": "左營區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "134",
+                    "label": "楠梓區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "135",
+                    "label": "三民區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "136",
+                    "label": "新興區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "137",
+                    "label": "前金區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "138",
+                    "label": "苓雅區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "139",
+                    "label": "前鎮區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "140",
+                    "label": "旗津區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "141",
+                    "label": "小港區",
+                    "areaParentCode": "7",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "8",
+                "label": "基隆市",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "142",
+                    "label": "中正區",
+                    "areaParentCode": "8",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "143",
+                    "label": "七堵區",
+                    "areaParentCode": "8",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "144",
+                    "label": "暖暖區",
+                    "areaParentCode": "8",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "145",
+                    "label": "仁愛區",
+                    "areaParentCode": "8",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "146",
+                    "label": "中山區",
+                    "areaParentCode": "8",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "147",
+                    "label": "安樂區",
+                    "areaParentCode": "8",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "148",
+                    "label": "信義區",
+                    "areaParentCode": "8",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "9",
+                "label": "新竹市",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "149",
+                    "label": "東區",
+                    "areaParentCode": "9",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "150",
+                    "label": "北區",
+                    "areaParentCode": "9",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "151",
+                    "label": "香山區",
+                    "areaParentCode": "9",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "10",
+                "label": "嘉義市",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "152",
+                    "label": "東區",
+                    "areaParentCode": "10",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "153",
+                    "label": "西區",
+                    "areaParentCode": "10",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "11",
+                "label": "新北市",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "154",
+                    "label": "板橋區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "155",
+                    "label": "三重區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "156",
+                    "label": "永和區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "157",
+                    "label": "中和區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "158",
+                    "label": "新店區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "159",
+                    "label": "新莊區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "160",
+                    "label": "樹林區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "161",
+                    "label": "鶯歌區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "162",
+                    "label": "三峽區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "163",
+                    "label": "淡水區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "164",
+                    "label": "汐止區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "165",
+                    "label": "瑞芳區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "166",
+                    "label": "土城區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "167",
+                    "label": "蘆洲區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "168",
+                    "label": "五股區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "169",
+                    "label": "泰山區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "170",
+                    "label": "林口區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "171",
+                    "label": "深坑區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "172",
+                    "label": "石碇區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "173",
+                    "label": "坪林區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "174",
+                    "label": "三芝區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "175",
+                    "label": "石門區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "176",
+                    "label": "八里區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "177",
+                    "label": "平溪區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "178",
+                    "label": "雙溪區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "179",
+                    "label": "貢寮區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "180",
+                    "label": "金山區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "181",
+                    "label": "萬裏區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "182",
+                    "label": "烏來區",
+                    "areaParentCode": "11",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "12",
+                "label": "桃園市",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "183",
+                    "label": "桃園區",
+                    "areaParentCode": "12",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "184",
+                    "label": "中壢區",
+                    "areaParentCode": "12",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "185",
+                    "label": "大溪區",
+                    "areaParentCode": "12",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "186",
+                    "label": "楊梅區",
+                    "areaParentCode": "12",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "187",
+                    "label": "蘆竹區",
+                    "areaParentCode": "12",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "188",
+                    "label": "大園區",
+                    "areaParentCode": "12",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "189",
+                    "label": "龜山區",
+                    "areaParentCode": "12",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "190",
+                    "label": "八德區",
+                    "areaParentCode": "12",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "191",
+                    "label": "龍潭區",
+                    "areaParentCode": "12",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "192",
+                    "label": "平鎮區",
+                    "areaParentCode": "12",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "193",
+                    "label": "新屋區",
+                    "areaParentCode": "12",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "194",
+                    "label": "觀音區",
+                    "areaParentCode": "12",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "195",
+                    "label": "復興區",
+                    "areaParentCode": "12",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "13",
+                "label": "新竹縣",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "196",
+                    "label": "關西鎮",
+                    "areaParentCode": "13",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "197",
+                    "label": "新埔鎮",
+                    "areaParentCode": "13",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "198",
+                    "label": "竹東鎮",
+                    "areaParentCode": "13",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "199",
+                    "label": "竹北市",
+                    "areaParentCode": "13",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "200",
+                    "label": "湖口鄉",
+                    "areaParentCode": "13",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "201",
+                    "label": "橫山鄉",
+                    "areaParentCode": "13",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "202",
+                    "label": "新豐鄉",
+                    "areaParentCode": "13",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "203",
+                    "label": "芎林鄉",
+                    "areaParentCode": "13",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "204",
+                    "label": "寶山鄉",
+                    "areaParentCode": "13",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "205",
+                    "label": "北埔鄉",
+                    "areaParentCode": "13",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "206",
+                    "label": "峨眉鄉",
+                    "areaParentCode": "13",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "207",
+                    "label": "尖石鄉",
+                    "areaParentCode": "13",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "208",
+                    "label": "五峯鄉",
+                    "areaParentCode": "13",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "14",
+                "label": "宜蘭縣",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "209",
+                    "label": "宜蘭市",
+                    "areaParentCode": "14",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "210",
+                    "label": "羅東鎮",
+                    "areaParentCode": "14",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "211",
+                    "label": "蘇澳鎮",
+                    "areaParentCode": "14",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "212",
+                    "label": "頭城鎮",
+                    "areaParentCode": "14",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "213",
+                    "label": "礁溪鄉",
+                    "areaParentCode": "14",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "214",
+                    "label": "壯圍鄉",
+                    "areaParentCode": "14",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "215",
+                    "label": "員山鄉",
+                    "areaParentCode": "14",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "216",
+                    "label": "冬山鄉",
+                    "areaParentCode": "14",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "217",
+                    "label": "五結鄉",
+                    "areaParentCode": "14",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "218",
+                    "label": "三星鄉",
+                    "areaParentCode": "14",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "219",
+                    "label": "大同鄉",
+                    "areaParentCode": "14",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "220",
+                    "label": "南澳鄉",
+                    "areaParentCode": "14",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "15",
+                "label": "苗栗縣",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "221",
+                    "label": "苗栗市",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "222",
+                    "label": "苑裡鎮",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "223",
+                    "label": "通霄鎮",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "224",
+                    "label": "竹南鎮",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "225",
+                    "label": "頭份市",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "226",
+                    "label": "後龍鎮",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "227",
+                    "label": "卓蘭鎮",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "228",
+                    "label": "大湖鄉",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "229",
+                    "label": "公館鄉",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "230",
+                    "label": "銅鑼鄉",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "231",
+                    "label": "南莊鄉",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "232",
+                    "label": "頭屋鄉",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "233",
+                    "label": "三義鄉",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "234",
+                    "label": "西湖鄉",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "235",
+                    "label": "造橋鄉",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "236",
+                    "label": "三灣鄉",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "237",
+                    "label": "獅潭鄉",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "238",
+                    "label": "泰安鄉",
+                    "areaParentCode": "15",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "16",
+                "label": "彰化縣",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "239",
+                    "label": "彰化市",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "240",
+                    "label": "鹿港鎮",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "241",
+                    "label": "和美鎮",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "242",
+                    "label": "北斗鎮",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "243",
+                    "label": "員林市",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "244",
+                    "label": "溪湖鎮",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "245",
+                    "label": "田中鎮",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "246",
+                    "label": "二林鎮",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "247",
+                    "label": "線西鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "248",
+                    "label": "伸港鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "249",
+                    "label": "福興鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "250",
+                    "label": "秀水鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "251",
+                    "label": "花壇鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "252",
+                    "label": "芬園鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "253",
+                    "label": "大村鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "254",
+                    "label": "埔鹽鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "255",
+                    "label": "埔心鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "256",
+                    "label": "永靖鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "257",
+                    "label": "社頭鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "258",
+                    "label": "二水鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "259",
+                    "label": "田尾鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "260",
+                    "label": "埤頭鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "261",
+                    "label": "芳苑鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "262",
+                    "label": "大城鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "263",
+                    "label": "竹塘鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "264",
+                    "label": "溪州鄉",
+                    "areaParentCode": "16",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "17",
+                "label": "南投縣",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "265",
+                    "label": "南投市",
+                    "areaParentCode": "17",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "266",
+                    "label": "埔里鎮",
+                    "areaParentCode": "17",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "267",
+                    "label": "草屯鎮",
+                    "areaParentCode": "17",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "268",
+                    "label": "竹山鎮",
+                    "areaParentCode": "17",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "269",
+                    "label": "集集鎮",
+                    "areaParentCode": "17",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "270",
+                    "label": "名間鄉",
+                    "areaParentCode": "17",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "271",
+                    "label": "鹿谷鄉",
+                    "areaParentCode": "17",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "272",
+                    "label": "中寮鄉",
+                    "areaParentCode": "17",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "273",
+                    "label": "魚池鄉",
+                    "areaParentCode": "17",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "274",
+                    "label": "國姓鄉",
+                    "areaParentCode": "17",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "275",
+                    "label": "水里鄉",
+                    "areaParentCode": "17",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "276",
+                    "label": "信義鄉",
+                    "areaParentCode": "17",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "277",
+                    "label": "仁愛鄉",
+                    "areaParentCode": "17",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "18",
+                "label": "雲林縣",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "278",
+                    "label": "斗六市",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "279",
+                    "label": "斗南鎮",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "280",
+                    "label": "虎尾鎮",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "281",
+                    "label": "西螺鎮",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "282",
+                    "label": "土庫鎮",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "283",
+                    "label": "北港鎮",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "284",
+                    "label": "古坑鄉",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "285",
+                    "label": "大埤鄉",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "286",
+                    "label": "莿桐鄉",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "287",
+                    "label": "林內鄉",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "288",
+                    "label": "二崙鄉",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "289",
+                    "label": "崙背鄉",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "290",
+                    "label": "麥寮鄉",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "291",
+                    "label": "東勢鄉",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "292",
+                    "label": "褒忠鄉",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "293",
+                    "label": "台西鄉",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "294",
+                    "label": "元長鄉",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "295",
+                    "label": "四湖鄉",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "296",
+                    "label": "口湖鄉",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "297",
+                    "label": "水林鄉",
+                    "areaParentCode": "18",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "19",
+                "label": "嘉義縣",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "298",
+                    "label": "朴子市",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "299",
+                    "label": "布袋鎮",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "300",
+                    "label": "大林鎮",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "301",
+                    "label": "民雄鄉",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "302",
+                    "label": "溪口鄉",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "303",
+                    "label": "新港鄉",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "304",
+                    "label": "六腳鄉",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "305",
+                    "label": "東石鄉",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "306",
+                    "label": "義竹鄉",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "307",
+                    "label": "鹿草鄉",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "308",
+                    "label": "太保市",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "309",
+                    "label": "水上鄉",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "310",
+                    "label": "中埔鄉",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "311",
+                    "label": "竹崎鄉",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "312",
+                    "label": "梅山鄉",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "313",
+                    "label": "番路鄉",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "314",
+                    "label": "大埔鄉",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "315",
+                    "label": "阿里山鄉",
+                    "areaParentCode": "19",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "20",
+                "label": "屏東縣",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "316",
+                    "label": "屏東市",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "317",
+                    "label": "潮州鎮",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "318",
+                    "label": "東港鎮",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "319",
+                    "label": "恆春鎮",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "320",
+                    "label": "萬丹鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "321",
+                    "label": "長治鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "322",
+                    "label": "麟洛鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "323",
+                    "label": "九如鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "324",
+                    "label": "里港鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "325",
+                    "label": "鹽埔鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "326",
+                    "label": "高樹鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "327",
+                    "label": "萬巒鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "328",
+                    "label": "內埔鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "329",
+                    "label": "竹田鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "330",
+                    "label": "新埤鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "331",
+                    "label": "枋寮鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "332",
+                    "label": "新園鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "333",
+                    "label": "崁頂鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "334",
+                    "label": "林邊鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "335",
+                    "label": "南州鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "336",
+                    "label": "佳冬鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "337",
+                    "label": "琉球鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "338",
+                    "label": "車城鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "339",
+                    "label": "滿州鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "340",
+                    "label": "枋山鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "341",
+                    "label": "三地門鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "342",
+                    "label": "霧台鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "343",
+                    "label": "瑪家鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "344",
+                    "label": "泰武鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "345",
+                    "label": "來義鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "346",
+                    "label": "春日鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "347",
+                    "label": "獅子鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "348",
+                    "label": "牡丹鄉",
+                    "areaParentCode": "20",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "21",
+                "label": "澎湖縣",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "349",
+                    "label": "馬公市",
+                    "areaParentCode": "21",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "350",
+                    "label": "湖西鄉",
+                    "areaParentCode": "21",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "351",
+                    "label": "白沙鄉",
+                    "areaParentCode": "21",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "352",
+                    "label": "西嶼鄉",
+                    "areaParentCode": "21",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "353",
+                    "label": "望安鄉",
+                    "areaParentCode": "21",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "354",
+                    "label": "七美鄉",
+                    "areaParentCode": "21",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "22",
+                "label": "花蓮縣",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "355",
+                    "label": "花蓮市",
+                    "areaParentCode": "22",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "356",
+                    "label": "鳳林鎮",
+                    "areaParentCode": "22",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "357",
+                    "label": "玉里鎮",
+                    "areaParentCode": "22",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "358",
+                    "label": "新城鄉",
+                    "areaParentCode": "22",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "359",
+                    "label": "吉安鄉",
+                    "areaParentCode": "22",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "360",
+                    "label": "壽豐鄉",
+                    "areaParentCode": "22",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "361",
+                    "label": "光復鄉",
+                    "areaParentCode": "22",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "362",
+                    "label": "豐濱鄉",
+                    "areaParentCode": "22",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "363",
+                    "label": "瑞穗鄉",
+                    "areaParentCode": "22",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "364",
+                    "label": "富里鄉",
+                    "areaParentCode": "22",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "365",
+                    "label": "秀林鄉",
+                    "areaParentCode": "22",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "366",
+                    "label": "萬榮鄉",
+                    "areaParentCode": "22",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "367",
+                    "label": "卓溪鄉",
+                    "areaParentCode": "22",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "23",
+                "label": "台東縣",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "368",
+                    "label": "台東市",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "369",
+                    "label": "成功鎮",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "370",
+                    "label": "關山鎮",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "371",
+                    "label": "卑南鄉",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "372",
+                    "label": "大武鄉",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "373",
+                    "label": "太麻里",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "374",
+                    "label": "東河鄉",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "375",
+                    "label": "長濱鄉",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "376",
+                    "label": "鹿野鄉",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "377",
+                    "label": "池上鄉",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "378",
+                    "label": "綠島鄉",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "379",
+                    "label": "延平鄉",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "380",
+                    "label": "海端鄉",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "381",
+                    "label": "達仁鄉",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "382",
+                    "label": "金峯鄉",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "383",
+                    "label": "蘭嶼鄉",
+                    "areaParentCode": "23",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "24",
+                "label": "金門縣",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "384",
+                    "label": "金城鎮",
+                    "areaParentCode": "24",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "385",
+                    "label": "金沙鎮",
+                    "areaParentCode": "24",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "386",
+                    "label": "金湖鎮",
+                    "areaParentCode": "24",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "387",
+                    "label": "金寧鄉",
+                    "areaParentCode": "24",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "388",
+                    "label": "烈嶼鄉",
+                    "areaParentCode": "24",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "389",
+                    "label": "烏坵鄉",
+                    "areaParentCode": "24",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              },
+              {
+                "value": "25",
+                "label": "連江縣",
+                "areaParentCode": "3",
+                "areaLevel": "4",
+                "children": [
+                  {
+                    "value": "390",
+                    "label": "南竿鄉",
+                    "areaParentCode": "25",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "391",
+                    "label": "北竿鄉",
+                    "areaParentCode": "25",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "392",
+                    "label": "莒光鄉",
+                    "areaParentCode": "25",
+                    "areaLevel": "5"
+                  },
+                  {
+                    "value": "393",
+                    "label": "東引鄉",
+                    "areaParentCode": "25",
+                    "areaLevel": "5"
+                  }
+                ],
+                "isLeaf": false
+              }
+            ],
+            "isLeaf": false
+          }
+        ],
+        "isLeaf": false
+      }
+    ],
+    "isLeaf": false
+  }
+]

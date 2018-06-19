@@ -1,0 +1,43 @@
+.mul-map {
+  position: relative;
+  min-width: 350px;
+  min-height: 350px;
+  background-color: #fbfbfb;
+
+  .mul-map-container {
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+
+  .mul-map-search {
+    position: absolute;
+    padding: 8px;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 2;
+
+    input {
+      width: 100%;
+      height: 32px;
+      padding: 6px 7px;
+      border-radius: 6px;
+    }
+  }
+
+  .mul-map-search-warp {
+    height: 46px;
+    background-color: #333;
+    filter: alpha(opacity=80);
+    opacity: 0.8;
+    z-index: 2;
+  }
+
+  .mul-map-opt {
+    height: 46px;
+    padding: 8px;
+    border: solid 1px #e9e9e9;
+    background-color: #fbfbfb;
+  }
+}

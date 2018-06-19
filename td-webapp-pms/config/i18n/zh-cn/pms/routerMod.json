@@ -1,0 +1,36 @@
+{
+  "routerScancodeModConfig": "扫码渠道商户路由模版配置",
+  "routerBankcardModConfig": "刷卡渠道商户路由模版配置",
+
+  "modNo": "模版编号",
+  "modName": "模版名称",
+  "smartRote": "智能路由",
+  "txnChannel": "支付渠道",
+  "smartRoute": "智能路由",
+  "txnChannel-0001": "银联卡",
+  "txnChannel-0002": "VISA",
+  "txnChannel-0003": "MasterCard",
+  "txnChannel-1011": "支付宝",
+  "txnChannel-1012": "微信",
+  "txnChannel-1014": "橘子支",
+  "txnChannel-1015": "欧付宝",
+  "txnChannel-1016": "linepay",
+  "smartRoute-1": "开",
+  "smartRoute-0": "关",
+
+  "setDefaultConfirm": "确认要将该项目设为默认？",
+
+  "modCurrency": "币种",
+  "allCurrency": "所有币种",
+
+  "currencySupport": "支持币种",
+  "currentCurrency": "当前币种",
+
+  "nullModNoMsg": "请选择模版",
+
+  "applyMod": "套用模版",
+  "modApplying": "应用中的模版",
+
+  "alipayRefreshTk": "支付宝刷新令牌",
+  "alipayMd5Key": "支付宝MD5密钥"
+}

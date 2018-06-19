@@ -1,0 +1,40 @@
+[
+  {
+    "value": "01",
+    "label": "安卓",
+    "children": [
+      {
+        "value": "01",
+        "label": "智能POS"
+      },
+      {
+        "value": "02",
+        "label": "智能手機"
+      }
+    ]
+  },
+  {
+    "value": "02",
+    "label": "IOS",
+    "children": [
+      {
+        "value": "01",
+        "label": "智能手機"
+      }
+    ]
+  },
+  {
+    "value": "03",
+    "label": "Windows",
+    "children": [
+      {
+        "value": "01",
+        "label": "PC客户端"
+      },
+      {
+        "value": "02",
+        "label": "傳統收銀台"
+      }
+    ]
+  }
+]

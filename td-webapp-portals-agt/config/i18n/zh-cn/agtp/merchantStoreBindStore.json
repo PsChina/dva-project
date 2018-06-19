@@ -1,0 +1,9 @@
+{
+    "storeName":"门店名称",
+    "merchantName":"商户名称",
+    "mainMeal":"主套餐",
+    "payHardware":"云智慧系统机",
+    "fuselageCoding":"机身编码",
+    "POSHardware":"云智慧POS机",
+    "extensionMeal":"附加套餐"
+}

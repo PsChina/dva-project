@@ -1,0 +1,16 @@
+{
+  "terminalFirmware": "終端固件管理",
+  "verId": "固件編號",
+  "verNo": "固件版本",
+  "verTyp": "固件類型",
+  "copId": "廠商編號",
+  "copNam": "終端廠商",
+  "terModId": "型號編號",
+  "terModNo": "機具型號",
+  "verTim": "發佈時間",
+  "verRemark": "備註",
+  "inputFile": "固件上傳",
+  "clickToDownload": "點擊下載",
+  "fileUploadWarn": "文件上傳失敗",
+  "fileUploadSuccess": "文件上傳成功"
+}

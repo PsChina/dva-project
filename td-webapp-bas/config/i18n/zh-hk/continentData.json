@@ -1,0 +1,51 @@
+[
+  {
+    "value": "1",
+    "label": "亞洲",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "isLeaf": false
+  },
+  {
+    "value": "2",
+    "label": "歐洲",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "isLeaf": false
+  },
+  {
+    "value": "3",
+    "label": "非洲",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "isLeaf": false
+  },
+  {
+    "value": "4",
+    "label": "北美",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "isLeaf": false
+  },
+  {
+    "value": "5",
+    "label": "南美",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "isLeaf": false
+  },
+  {
+    "value": "6",
+    "label": "大洋洲",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "isLeaf": false
+  },
+  {
+    "value": "156",
+    "label": "南極洲",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "isLeaf": false
+  }
+]

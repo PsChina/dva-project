@@ -1,0 +1,12 @@
+{
+  "userName": "用户名",
+  "oldPasswd": "舊密碼",
+  "newPasswd": "新密碼",
+  "newPasswdConfirm": "新密碼確認",
+  "diffTwoPwd": "兩次輸入的密碼不一致",
+  "validUsername": "請填寫用户名",
+  "validOldPasswd": "請填寫舊密碼",
+  "validNewPasswd": "請填寫新密碼",
+  "validNewPasswdConfirm": "請填寫新密碼確認",
+  "validPassword": "請填寫登錄密碼"
+}

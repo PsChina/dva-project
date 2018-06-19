@@ -1,0 +1,32 @@
+{
+  "terminalParamTemp": "终端参数模版",
+  "tempId": "模版 ID",
+  "tempName": "模版名称",
+  "tempType": "模版类型",
+  "tempType-02": "传统终端模版",
+  "tempType-01": "智能终端模版",
+  "configParam": "配置参数",
+  "deleteTempConfirm": "确认要删除模版及对应参数吗？",
+
+  "paramItem": "参数项",
+  "itemCode": "参数代码",
+  "itemName": "参数名称",
+  "itemField": "参数域",
+  "itemType": "参数类型",
+  "itemType-1": "STRING",
+  "itemType-2": "ASCII",
+  "itemType-3": "BCD",
+  "itemType-4": "BIN",
+  "itemLenType": "长度类型",
+  "itemLenType-1": "定长",
+  "itemLenType-2": "变长",
+  "itemLength": "参数长度",
+  "itemAlign": "对齐方式",
+  "itemAlign-1": "左对齐",
+  "itemAlign-2": "右对齐",
+  "itemSup": "补位字符",
+  "itemOrder": "参数排序",
+  
+  "itemDuplicateAdd": "请勿添加重复参数",
+  "deleteParamConfirm": "确认要删除参数吗？"
+}

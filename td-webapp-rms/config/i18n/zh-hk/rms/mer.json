@@ -1,0 +1,14 @@
+{
+  "mer": "商户列表",
+  "merEmail": "賬户登錄名",
+  "merId": "商户編號",
+  "merName": "商户名稱",
+  "merNo": "小票商户號",
+  "merType": "商户類型",
+  "agtId": "所屬代理商編號",
+  "agtName": "所屬代理商名稱",
+  "merType-0": "個體工商户",
+  "merType-1": "企業單位",
+  "merType-2": "事業單位",
+  "merType-3": "政府機關"
+}

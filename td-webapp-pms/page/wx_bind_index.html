@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="zh-cmn">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+	<title>微信登记</title>
+</head>
+<body ontouchstart onload="redirect();">
+	<script type="text/javascript">
+    var appid = "wx4ab4fd55ebe1d412"; var reUrl = "http://103.21.116.93:3000/p/wx/bind/init";
+    var url = "https://open.weixin.qq.com/connect/oauth2/authorize?appid=" + appid + "&redirect_uri=" + reUrl + "&response_type=code&scope=SCOPE&state=STATE#wechat_redirect";
+    function redirect() { window.location.href = url; }
+	</script>
+</body>
+</html>

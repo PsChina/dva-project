@@ -1,0 +1,21 @@
+{
+  "terminalCompany": "終端廠商管理",
+  "copId": "廠商編號",
+  "copNam": "廠商名稱",
+  "copShNam": "廠商簡稱",
+  "copDesc": "廠商描述",
+  "userName": "用户名稱",
+  "realName": "真實姓名",
+  "mobile": "手機號碼",
+  "email": "電子郵箱",
+  "address": "詳細地址",
+  "gender": "性別",
+  "birthday": "生日",
+  "certificateType": "證件類型",
+  "certificateNo": "證件號碼",
+  "remark": "備註",
+  "status": "狀態",
+  "copContacts": "聯繫人",
+  "copTel": "聯繫電話",
+  "copAddr": "聯繫地址"
+}

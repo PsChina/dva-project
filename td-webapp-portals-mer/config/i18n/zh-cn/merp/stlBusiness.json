@@ -1,0 +1,37 @@
+{
+    "stlDat": "结算日期",
+    "busiTyp": "业务类型",
+    "clrTyp": "收款方类型",
+    "pyeMemId": "收款方ID",
+    "pyeMemName": "收款方名称",
+    "begClrDat": "起始清分日期",
+    "endClrDat": "截止清分日期",
+    "stlWay": "到账方式",
+    "ccy": "货币种类",
+    "stlAmt": "结算金额",
+    "txnTotCnt": "交易总笔数",
+    "txnTotAmt": "交易总金额",
+    "txnTotFee": "交易总手续费",
+    "payTotCnt": "消费总笔数",
+    "payTotAmt": "消费总金额",
+    "payTotFee": "消费总手续费",
+    "refTotCnt": "退货总笔数",
+    "refTotAmt": "退货总金额",
+    "refTotFee": "退货总手续费",
+    "dealSts": "处理状态",
+
+    "stlDetlOper":"结算业务明细",
+    "businessDetail": "业务详情",
+
+    "ccyCod-CNY": "人民币",
+    "ccyCod-USD": "美元",
+
+    "individualMem": "个人会员",
+    "merchantman": "商户",
+    "store": "门店",
+    "terminal": "终端",
+
+    "stlWay-01": "支付账户",
+    "stlWay-02": "银行账户"
+
+}

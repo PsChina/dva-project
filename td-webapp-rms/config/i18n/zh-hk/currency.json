@@ -1,0 +1,126 @@
+[
+  {
+    "value": "CNY",
+    "label": "人民幣"
+  },
+  {
+    "value": "HKD",
+    "label": "港幣"
+  },
+  {
+    "value": "TWD",
+    "label": "新台幣"
+  },
+  {
+    "value": "USD",
+    "label": "美元"
+  },
+  {
+    "value": "JPY",
+    "label": "日元"
+  },
+  {
+    "value": "KRW",
+    "label": "韓元"
+  },
+  {
+    "value": "THB",
+    "label": "泰銖"
+  },
+  {
+    "value": "GBP",
+    "label": "英鎊"
+  },
+  {
+    "value": "EUR",
+    "label": "歐元"
+  },
+  {
+    "value": "CAD",
+    "label": "加元"
+  },
+  {
+    "value": "AUD",
+    "label": "澳元"
+  },
+  {
+    "value": "BRL",
+    "label": "雷亞爾"
+  },
+  {
+    "value": "KHR",
+    "label": "瑞爾"
+  },
+  {
+    "value": "GHS",
+    "label": "加納塞地"
+  },
+  {
+    "value": "INR",
+    "label": "印度盧比"
+  },
+  {
+    "value": "IDR",
+    "label": "印尼盧比(印度尼西亞盾)"
+  },
+  {
+    "value": "IRR",
+    "label": "伊朗里亞爾"
+  },
+  {
+    "value": "IMP",
+    "label": "馬恩島鎊"
+  },
+  {
+    "value": "ILS",
+    "label": "以色列新錫克爾"
+  },
+  {
+    "value": "KPW",
+    "label": "朝鮮圓"
+  },
+  {
+    "value": "MXN",
+    "label": "墨西哥比索"
+  },
+  {
+    "value": "MNT",
+    "label": "蒙古圖格里克"
+  },
+  {
+    "value": "DKK",
+    "label": "丹麥克朗"
+  },
+  {
+    "value": "ZAR",
+    "label": "南非蘭特"
+  },
+  {
+    "value": "NZD",
+    "label": "新西蘭元"
+  },
+  {
+    "value": "PAB",
+    "label": "巴拿馬巴波亞"
+  },
+  {
+    "value": "PHP",
+    "label": "菲律賓比索"
+  },
+  {
+    "value": "RUB",
+    "label": "俄羅斯盧比"
+  },
+  {
+    "value": "SEK",
+    "label": "瑞典克朗"
+  },
+  {
+    "value": "CHF",
+    "label": "瑞士法郎"
+  },
+  {
+    "value": "VND",
+    "label": "越南盾"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "validChnName": "请输入渠道名称",
+  "validChnMerNo": "请输入渠道商户号",
+  "validChnTermNo": "请输入终端号",
+  "validChnTmkkey": "请输入主密钥",
+  "validCheckValue": "请输入主密钥校验值",
+  "validChnPinkey": "请输入PIN密钥",
+  "validChnMackey": "请输入MAC密钥",
+  "validChnTdkkey": "请输入磁道密钥",
+
+  "validChnId": "请选择渠道",
+  "validPreChnName": "请先选择渠道",
+  "validSelectChnMerNo": "请选择渠道商户号"
+}

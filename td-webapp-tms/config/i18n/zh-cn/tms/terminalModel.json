@@ -1,0 +1,11 @@
+{
+  "terminalModel": "终端型号管理",
+
+  "terModId": "型号ID",
+  "copId": "厂商编号",
+  "copNam": "厂商名称",
+  "terModNo": "机具型号",
+  "terTyp": "终端类型",
+  "terSubTyp": "终端子类型",
+  "high":"高级搜索"
+}

@@ -1,0 +1,17 @@
+{
+    "mainMeal":"主套餐",
+    "subjoinMeal":"附加套餐",
+    "unit":"年",
+    "add":"增加",
+    "delete":"删除",
+    "total":"订单合计",
+    "qListError":"查询套餐失败。",
+    "qExtraError":"查询附加套餐失败。",
+    "storesName":"门店名称",
+    "customerName":"客户名称",
+    "search":"搜索",
+    "searchStore":"查询商户",
+    "sodAmount":"主套餐价格",
+    "extraAmount":"附加总价",
+    "presented":"赠送[d]个月"
+}

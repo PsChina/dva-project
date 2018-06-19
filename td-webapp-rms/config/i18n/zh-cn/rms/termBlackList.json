@@ -1,0 +1,17 @@
+{
+  "termBlackList": "终端黑名单",
+
+  "listTyp": "名单类型",
+  "listTyp-0": "白名单", 
+  "listTyp-1": "黑名单",
+  "listTyp-2": "灰名单",
+
+  "terId": "终端序列号",
+  "terNo": "终端号",
+  "terPhyno": "终端机身号",
+  "operId": "操作员",
+  "operTim": "操作时间",
+  "logId": "操作日志编号",
+  
+  "validlistTyp": "请填写名单类型"
+}

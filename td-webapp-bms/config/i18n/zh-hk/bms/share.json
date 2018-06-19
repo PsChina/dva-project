@@ -1,0 +1,18 @@
+{
+  "shareConfig": "分潤設置",
+  "shareCost": "分潤成本",
+  "ind-1": "一般類",
+  "ind-2": "優惠類",
+  "ind-3": "減免類",
+  "dcardCost": "借記卡成本",
+  "ccardCost": "貸記卡成本",
+  "costLimit": "成本封頂",
+  "shareType": "分潤方式",
+  "shareType-1": "按交易量區間比例",
+  "shareType-2": "按交易金額比例",
+  "shareType-3": "按交易手續費比例",
+  "txnRange": "交易量區間",
+  "sharePercent": "分潤比例",
+  "formula": "計算公式",
+  "formula-1": "(交易手續費 - 交易成本) x 交易量區間分潤比例"
+}

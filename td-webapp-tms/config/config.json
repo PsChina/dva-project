@@ -1,0 +1,19 @@
+{
+  "app": "TMS",
+  "language": "zh-hk",
+  "loginUrl": "http://pay-center.trendlab.ai",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://bas.dev.trend-lab.cn/",
+  "basProxyApp": "/td-bas-web",
+
+  "tmsReqType": "rest",
+  "tmsHost": "",
+  "tmsApp": "tms",
+  "tmsProxy": "http://tms.dev.trend-lab.cn/",
+  "tmsProxyApp": "/td-mms-web",
+  "tmsFileHost": "http://tms.dev.trend-lab.cn/"
+
+}

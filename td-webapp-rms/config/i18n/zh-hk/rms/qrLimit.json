@@ -1,0 +1,17 @@
+{
+  "qrLimitManage": "二維碼限額管理",
+  "prograqrr": "數據異常",
+  "statusNotMatch": "請選擇狀態相同的項目",
+  "qrId": "二維碼編號",
+  "limitStatus": "限額狀態",
+  "qrOneLimitAmt": "單筆最低消費額",
+  "qrOneTopAmt": "單筆消費限額",
+  "qrDayTopAmt": "日限額",
+  "qrMonTopAmt": "月限額",
+  "qrDayTopCount": "日封頂消費筆數",
+  "qrMonTopCount": "月封頂消費筆數",
+  "ccy": "幣種",
+  "addTim": "添加日期",
+  "updTim": "更新日期",
+  "operId": "操作人"
+}

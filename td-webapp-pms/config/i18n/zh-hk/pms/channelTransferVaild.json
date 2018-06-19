@@ -1,0 +1,11 @@
+{
+  "vaildChnName": "請輸入渠道名稱",
+  "vaildChnAlias": "請輸入渠道簡稱",
+  "vaildChnConterName": "請輸入渠道聯繫人名稱",
+  "vaildChnMobile": "請輸入渠道聯繫手機",
+  "vaildChnPhone": "請輸入渠道聯繫電話",
+  "vaildChnAddr": "請輸入渠道聯繫地址",
+  "vaildMobile": "請輸入正確的手機號碼",
+  "vaildNeeCheck": "請選擇是否對賬",
+  "validChnType": "請選擇渠道類型"
+}

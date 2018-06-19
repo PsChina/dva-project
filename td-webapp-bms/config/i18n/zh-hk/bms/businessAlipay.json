@@ -1,0 +1,16 @@
+{
+  "alipayBizConfig": "支付寶支付業務配置",
+  "alipayBizInfo": "支付寶支付業務詳情",
+  "merId": "商户編號",
+  "merName": "商户名稱",
+  "payRate": "支付費率",
+  "feeLim": "封頂手續費",
+  "merMod": "商户模式",
+  "merMod-1": "一級商户",
+  "merMod-2": "二級商户",
+  "belongMer": "所屬商户",
+  "merAppId": "商户AppId",
+  "merPubKey": "商户公鑰",
+  "merPriKey": "商户私鑰",
+  "merMd5Key": "Md5密鑰"
+}

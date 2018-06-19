@@ -1,0 +1,13 @@
+{
+  "linepayBizConfig": "linepay支付業務配置",
+  "linepayBizInfo": "linepay支付業務詳情",
+  "merId": "商户編號",
+  "merName": "商户名稱",
+  "payRate": "支付費率",
+  "feeLim": "封頂手續費",
+  "merMod": "商户模式",
+  "merMod-1": "一級商户",
+  "merMod-2": "二級商户",
+  "linepayChannelId": "商户通道",
+  "linepaySecretKey": "密鑰"
+}

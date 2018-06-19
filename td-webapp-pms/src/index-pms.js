@@ -1,0 +1,20 @@
+export function addPmsModel(app) {
+  app.model(require('./models/pms/channelTransferManage'));
+  app.model(require('./models/pms/channelBankcardManage'));
+  app.model(require('./models/pms/channelScancodeManage'));
+  app.model(require('./models/pms/channelTransferApply'));
+  app.model(require('./models/pms/channelBankcardApply'));
+  app.model(require('./models/pms/merchantScancodeManage'));
+  app.model(require('./models/pms/merchantBankcardManage'));
+  app.model(require('./models/pms/merchantBankcardApply'));
+  app.model(require('./models/pms/merchantScancodeApply'));
+  app.model(require('./models/pms/routerMerBankcardManage'));
+  app.model(require('./models/pms/routerMerScancodeManage'));
+  app.model(require('./models/pms/routerScancodeModManage'));
+  app.model(require('./models/pms/routerBankcardModManage'));
+  app.model(require('./models/pms/merSmartRouterManage'));
+  app.model(require('./models/pms/channelScancodeApply'));
+  app.model(require('./models/pms/terminalBankcardManage'));
+  app.model(require('./models/pms/merchantTransferApply'));
+  app.model(require('./models/pms/merchantTransferManage'));
+}

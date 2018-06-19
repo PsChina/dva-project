@@ -1,0 +1,25 @@
+{
+    "customerType":"客户类型",
+    "plsSelectcustomerType":"请选择客户类型",
+    "customerName":"客户名称",
+    "paymentContent":"缴费内容",
+    "hardwareSupportKit":"配选硬件",
+    "subt":"小计:",
+    "total":"合计金额:",
+    "paymentType":"缴费方式",
+    "bank":"所属银行",
+    "transferInfo":"转账信息",
+    "add":"增加",
+    "unit":"套",
+    "customerType-0":"合伙人",
+    "customerType-1":"商户",
+    "paymentType-0":"线上缴费",
+    "paymentType-1":"线下打款",
+    "plsInputCustomerName":"请输入客户名称",
+    "qListError":"查询套餐失败",
+    "plsBanInfo":"请输入银行信息",
+    "plsTransferInfo":"请输入转账信息",
+    
+    "accountStatement":"银行附件",
+    "remark":"备注"
+}

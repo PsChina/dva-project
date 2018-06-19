@@ -1,0 +1,10 @@
+{
+  "tx": "腾讯",
+  "gd": "高德",
+  "bd": "百度",
+  "tip": "提示",
+  "searchDesc": "请输入关键字以便查询",
+  "noResultTip": "请输入更精确的关键字以便查询",
+  "closeSearch": "关闭搜索",
+  "openSearch": "打开搜索"
+}

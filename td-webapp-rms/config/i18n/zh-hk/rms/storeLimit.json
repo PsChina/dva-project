@@ -1,0 +1,16 @@
+{
+  "storeLimitManage": "門店限額管理",
+  "programErr": "數據異常",
+  "statusNotMatch": "請選擇狀態相同的項目",
+  "braId": "門店編號",
+  "limitStatus": "限額狀態",
+  "braOneLimitAmt": "單筆最低消費額",
+  "braOneTopAmt": "單筆消費限額",
+  "braDayTopAmt": "日限額",
+  "braMonTopAmt": "月限額",
+  "braDayTopCount": "日封頂消費筆數",
+  "braMonTopCount": "月封頂消費筆數",
+  "addTim": "添加日期",
+  "updTim": "更新日期",
+  "operId": "操作人"
+}

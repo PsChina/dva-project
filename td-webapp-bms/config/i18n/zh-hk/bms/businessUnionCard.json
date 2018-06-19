@@ -1,0 +1,16 @@
+{
+  "unionCardBizConfig": "銀聯卡業務配置",
+  "unionCardBizInfo": "銀聯卡業務詳情",
+  "merId": "商户編號",
+  "merName": "商户名稱",
+  "merInd": "商户行業",
+  "merMcc": "商户MCC",
+  "dcardRate": "借記卡費率",
+  "ccardRate": "貸記卡費率",
+  "dcardLim": "封頂手續費",
+  "ccardLim": "封頂手續費",
+  "feeMin": "最低手續費",
+  "ind-1": "一般類",
+  "ind-2": "優惠類",
+  "ind-3": "減免類"
+}

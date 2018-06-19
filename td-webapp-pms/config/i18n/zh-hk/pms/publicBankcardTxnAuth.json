@@ -1,0 +1,16 @@
+{
+  "yecxStatus": "餘額查詢",
+  "xfStatus": "消費",
+  "xfczStatus": "消費衝正",
+  "cxStatus": "撤銷",
+  "cxczStatus": "撤銷衝正",
+  "thStatus": "退貨",
+  "ysqStatus": "預授權",
+  "ysqczStatus": "衝正",
+  "ysqcxStatus": "撤銷",
+  "ysqcxczStatus": "撤銷衝正",
+  "ysqwcStatus": "完成",
+  "ysqwcczStatus": "完成衝正",
+  "ysqwccxStatus": "完成撤銷",
+  "ysqwccxczStatus": "完成撤銷衝正"
+}

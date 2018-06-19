@@ -1,0 +1,7 @@
+{
+	"validUsername": "Please fill in the user name",
+	"validPassword": "Please fill in the login password",
+	"login": "Login",
+	"usrLogin": "User login",
+	"reLogin": "Retry login"
+}

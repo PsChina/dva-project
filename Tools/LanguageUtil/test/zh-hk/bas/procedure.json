@@ -1,0 +1,19 @@
+{
+  "procedureManage": "步驟維護",
+  "nodeno": "步驟編號",
+  "nodename": "步驟名稱",
+  "systemno": "系統編號",
+  "systemname": "系統名稱",
+  "status": "步驟狀態",
+  "nodetype": "步驟類型",
+  "createobj": "創建人",
+  "createdate": "創建時間",
+  "updateobj": "更新人",
+  "updatedate": "更新時間",
+  "validModelName": "請選擇工作流名稱",
+  "validPositionName": "請填寫崗位名稱",
+  "validNodelName": "請填寫步驟名稱",
+  "statusNotMatch": "請選擇狀態相同的項目",
+  "programErr": "數據異常",
+  "selectOne": "請選擇單條記錄禁用"
+}

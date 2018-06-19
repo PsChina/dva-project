@@ -1,0 +1,175 @@
+@width: 768px;
+@height: 320px;
+
+.slide_panel {
+  position: fixed;
+  background-color: #fff;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+  border-color: transparent;
+  .slide_panel_title {
+    padding: 16px;
+    border-bottom: solid 1px #e9e9e9;
+  }
+  .slide_panel_content {
+    width: 100%;
+    height: 100%;
+    padding: 16px;
+  }
+}
+
+// left or right position
+.slide_panel_lr {
+  top: 0px;
+  width: @width;
+  height: 100%;
+}
+
+// right position
+.slide_panel_right_out {
+  right: -@width;
+  opacity: 0;
+}
+
+.slide_panel_right_in {
+  right: 0;
+  opacity: 1;
+}
+
+.slide_panel_right_fade_in {
+  right: 0px;
+  opacity: 1;
+  animation-duration: 0.24s;
+  animation-name: SlidePanelRightFadeIn;
+  animation-play-state: running;
+  -webkit-animation-duration: 0.24s;
+  -webkit-animation-name: SlidePanelRightFadeIn;
+  -webkit-animation-play-state: running;
+}
+
+.slide_panel_right_fade_out {
+  right: -@width;
+  opacity: 0;
+  animation-duration: 0.24s;
+  animation-name: SlidePanelRightFadeOut;
+  animation-play-state: running;
+  -webkit-animation-duration: 0.24s;
+  -webkit-animation-name: SlidePanelRightFadeOut;
+  -webkit-animation-play-state: running;
+}
+
+@-webkit-keyframes SlidePanelRightFadeIn {
+  0% {
+    opacity: 0;
+    right: -@width;
+  }
+  100% {
+    opacity: 1;
+    right: 0;
+  }
+}
+@keyframes SlidePanelRightFadeIn {
+  0% {
+    opacity: 0;
+    right: -@width;
+  }
+  100% {
+    opacity: 1;
+    right: 0;
+  }
+}
+
+@-webkit-keyframes SlidePanelRightFadeOut {
+  0% {
+    opacity: 1;
+    right: 0;
+  }
+  100% {
+    opacity: 0;
+    right: -@width;
+  }
+}
+@keyframes SlidePanelRightFadeOut {
+  0% {
+    opacity: 1;
+    right: 0;
+  }
+  100% {
+    opacity: 0;
+    right: -@width;
+  }
+}
+
+// left position
+.slide_panel_left_out {
+  left: -@width;
+  opacity: 0;
+}
+
+.slide_panel_left_in {
+  left: 0;
+  opacity: 1;
+}
+
+.slide_panel_left_fade_in {
+  left: 0px;
+  opacity: 1;
+  animation-duration: 0.24s;
+  animation-name: SlidePanelLeftFadeIn;
+  animation-play-state: running;
+  -webkit-animation-duration: 0.24s;
+  -webkit-animation-name: SlidePanelLeftFadeIn;
+  -webkit-animation-play-state: running;
+}
+
+.slide_panel_left_fade_out {
+  left: -@width;
+  opacity: 0;
+  animation-duration: 0.24s;
+  animation-name: SlidePanelLeftFadeOut;
+  animation-play-state: running;
+  -webkit-animation-duration: 0.24s;
+  -webkit-animation-name: SlidePanelLeftFadeOut;
+  -webkit-animation-play-state: running;
+}
+
+@-webkit-keyframes SlidePanelLeftFadeIn {
+  0% {
+    opacity: 0;
+    left: -@width;
+  }
+  100% {
+    opacity: 1;
+    left: 0;
+  }
+}
+@keyframes SlidePanelLeftFadeIn {
+  0% {
+    opacity: 0;
+    left: -@width;
+  }
+  100% {
+    opacity: 1;
+    left: 0;
+  }
+}
+
+@-webkit-keyframes SlidePanelLeftFadeOut {
+  0% {
+    opacity: 1;
+    left: 0;
+  }
+  100% {
+    opacity: 0;
+    left: -@width;
+  }
+}
+@keyframes SlidePanelLeftFadeOut {
+  0% {
+    opacity: 1;
+    left: 0;
+  }
+  100% {
+    opacity: 0;
+    left: -@width;
+  }
+}

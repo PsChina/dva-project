@@ -1,0 +1,17 @@
+{
+  "app": "BMS",
+  "language": "zh-hk",
+  "loginUrl": "http://pay-center.trendlab.ai",
+
+  "bmsReqType": "rest",
+  "bmsHost": "",
+  "bmsApp": "bms",
+  "bmsProxy": "http://bms.dev.trend-lab.cn",
+  "bmsProxyApp": "/td-mms-web",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://bas.dev.trend-lab.cn",
+  "basProxyApp": "/td-bas-web"
+}

@@ -1,0 +1,25 @@
+{
+  "app": "AGTP",
+  "language": "zh-hk",
+  "loginUrl": "https://partners.trendlab.ai/",
+  "agtpReqType": "rest",
+  "agtpHost": "",
+  "agtpApp": "agtp",
+  "agtpProxy": "http://partners.dev.trend-lab.cn/",
+  "agtpProxyApp": "/td-agtp-web",
+  "agtpFileHost": "http://partners.dev.trend-lab.cn/",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://bas.dev.trend-lab.cn/",
+  "basProxyApp": "/td-bas-web",
+  "basDownLoadUrl": "http://bas.dev.trend-lab.cn/td-bas-web/rest/bas/common/download",
+
+  "amsApp":"ams",
+  "amsReqType":"rest",
+  "amsProxy":"http://ams.dev.trend-lab.cn/",
+
+  "tmsApp":"tms",
+  "tmsProxy":"http://tms.dev.trend-lab.cn/"
+}

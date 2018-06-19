@@ -1,0 +1,1738 @@
+[
+  {
+    "value": "1",
+    "children": [
+      {
+        "value": "7",
+        "label": "中國",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "10",
+        "label": "阿富汗",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "12",
+        "label": "阿拉伯聯合酋長國",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "14",
+        "label": "阿曼",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "15",
+        "label": "阿塞拜疆",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "31",
+        "label": "巴基斯坦",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "33",
+        "label": "巴勒斯坦",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "34",
+        "label": "巴林",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "50",
+        "label": "不丹",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "54",
+        "label": "朝鮮",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "57",
+        "label": "東帝汶",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "70",
+        "label": "菲律賓",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "87",
+        "label": "哈薩克斯坦",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "89",
+        "label": "韓國",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "96",
+        "label": "吉爾吉斯斯坦",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "102",
+        "label": "柬埔寨",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "106",
+        "label": "卡塔爾",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "111",
+        "label": "科威特",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "117",
+        "label": "老撾",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "118",
+        "label": "黎巴嫩",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "128",
+        "label": "馬爾代夫",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "131",
+        "label": "馬來西亞",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "143",
+        "label": "蒙古",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "145",
+        "label": "孟加拉",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "148",
+        "label": "緬甸",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "159",
+        "label": "尼泊爾",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "170",
+        "label": "日本",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "178",
+        "label": "塞浦路斯",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "180",
+        "label": "沙特阿拉伯",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "189",
+        "label": "斯里蘭卡",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "198",
+        "label": "塔吉克斯坦",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "199",
+        "label": "泰國",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "207",
+        "label": "土耳其",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "208",
+        "label": "土庫曼斯坦",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "216",
+        "label": "文萊",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "220",
+        "label": "烏茲別克斯坦",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "223",
+        "label": "新加坡",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "227",
+        "label": "敍利亞",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "229",
+        "label": "亞美尼亞",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "230",
+        "label": "也門",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "231",
+        "label": "伊拉克",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "232",
+        "label": "伊朗",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "233",
+        "label": "以色列",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "235",
+        "label": "印度",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "236",
+        "label": "印度尼西亞",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "239",
+        "label": "約旦",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "240",
+        "label": "越南",
+        "areaParentCode": "1",
+        "areaLevel": "2",
+        "isLeaf": false
+      }
+    ],
+    "label": "亞洲",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "isLeaf": false
+  },
+  {
+    "value": "2",
+    "children": [
+      {
+        "value": "8",
+        "label": "阿爾巴尼亞",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "19",
+        "label": "愛爾蘭",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "20",
+        "label": "愛沙尼亞",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "21",
+        "label": "安道爾",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "26",
+        "label": "奧地利",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "27",
+        "label": "奧蘭羣島",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "37",
+        "label": "白俄羅斯",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "39",
+        "label": "保加利亞",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "42",
+        "label": "比利時",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "43",
+        "label": "冰島",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "45",
+        "label": "波蘭",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "47",
+        "label": "波斯尼亞和黑塞哥維那",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "53",
+        "label": "布韋島",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "55",
+        "label": "丹麥",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "56",
+        "label": "德國",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "61",
+        "label": "俄羅斯",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "64",
+        "label": "法國",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "65",
+        "label": "法羅羣島",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "68",
+        "label": "法屬南部領地",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "69",
+        "label": "梵蒂岡",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "72",
+        "label": "芬蘭",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "74",
+        "label": "弗蘭克羣島",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "80",
+        "label": "格恩西島",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "90",
+        "label": "荷蘭",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "103",
+        "label": "捷克共和國",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "112",
+        "label": "克羅地亞",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "115",
+        "label": "拉脱維亞",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "121",
+        "label": "立陶宛",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "122",
+        "label": "列支敦士登",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "123",
+        "label": "留尼旺島",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "124",
+        "label": "盧森堡",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "126",
+        "label": "羅馬尼亞",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "129",
+        "label": "馬耳他",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "133",
+        "label": "馬其頓",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "137",
+        "label": "曼島",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "149",
+        "label": "摩爾多瓦",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "151",
+        "label": "摩納哥",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "164",
+        "label": "挪威",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "168",
+        "label": "葡萄牙",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "171",
+        "label": "瑞典",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "172",
+        "label": "瑞士",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "175",
+        "label": "塞爾維亞,黑山",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "186",
+        "label": "聖馬力諾",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "190",
+        "label": "斯洛伐克",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "191",
+        "label": "斯洛文尼亞",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "192",
+        "label": "斯瓦爾巴和揚馬廷",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "218",
+        "label": "烏克蘭",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "221",
+        "label": "西班牙",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "222",
+        "label": "希臘",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "226",
+        "label": "匈牙利",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "234",
+        "label": "意大利",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "237",
+        "label": "英國",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "242",
+        "label": "澤西島",
+        "areaParentCode": "2",
+        "areaLevel": "2",
+        "isLeaf": false
+      }
+    ],
+    "label": "歐洲",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "isLeaf": false
+  },
+  {
+    "value": "3",
+    "children": [
+      {
+        "value": "9",
+        "label": "阿爾及利亞",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "16",
+        "label": "阿森松島",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "17",
+        "label": "埃及",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "18",
+        "label": "埃塞俄比亞",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "22",
+        "label": "安哥拉",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "41",
+        "label": "貝寧",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "48",
+        "label": "博茨瓦納",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "51",
+        "label": "布基納法索",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "52",
+        "label": "布隆迪",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "58",
+        "label": "多哥",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "63",
+        "label": "厄立特里亞",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "73",
+        "label": "佛得角",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "75",
+        "label": "岡比亞",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "76",
+        "label": "剛果",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "77",
+        "label": "剛果民主共和國",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "95",
+        "label": "吉布提",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "97",
+        "label": "幾內亞",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "98",
+        "label": "幾內亞比紹",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "100",
+        "label": "加納",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "101",
+        "label": "加蓬",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "104",
+        "label": "津巴布韋",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "105",
+        "label": "喀麥隆",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "109",
+        "label": "科摩羅",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "110",
+        "label": "科特迪瓦",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "113",
+        "label": "肯尼亞",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "116",
+        "label": "萊索托",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "119",
+        "label": "利比里亞",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "120",
+        "label": "利比亞",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "125",
+        "label": "盧旺達",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "127",
+        "label": "馬達加斯加",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "130",
+        "label": "馬拉維",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "132",
+        "label": "馬裏",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "136",
+        "label": "馬約特島",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "138",
+        "label": "毛里求斯",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "139",
+        "label": "毛里塔尼亞",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "150",
+        "label": "摩洛哥",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "152",
+        "label": "莫桑比克",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "154",
+        "label": "納米比亞",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "155",
+        "label": "南非",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "161",
+        "label": "尼日爾",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "162",
+        "label": "尼日利亞",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "176",
+        "label": "塞拉利昂",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "177",
+        "label": "塞內加爾",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "179",
+        "label": "塞舌爾",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "182",
+        "label": "聖多美和普林西比",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "183",
+        "label": "聖赫勒拿",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "193",
+        "label": "斯威士蘭",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "194",
+        "label": "蘇丹",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "197",
+        "label": "索馬里",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "200",
+        "label": "坦桑尼亞",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "205",
+        "label": "突尼斯",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "217",
+        "label": "烏干達",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "238",
+        "label": "英屬印度洋領地",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "241",
+        "label": "贊比亞",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "243",
+        "label": "乍得",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "244",
+        "label": "直布羅陀",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "246",
+        "label": "中非共和國",
+        "areaParentCode": "3",
+        "areaLevel": "2",
+        "isLeaf": false
+      }
+    ],
+    "label": "非洲",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "isLeaf": false
+  },
+  {
+    "value": "4",
+    "children": [
+      {
+        "value": "24",
+        "label": "安提瓜島和巴布達",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "30",
+        "label": "巴哈馬",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "35",
+        "label": "巴拿馬",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "38",
+        "label": "百慕大",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "40",
+        "label": "北馬裏亞納羣島",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "44",
+        "label": "波多黎各",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "49",
+        "label": "伯利茲",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "59",
+        "label": "多米尼加",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "60",
+        "label": "多米尼加共和國",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "79",
+        "label": "哥斯達黎加",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "81",
+        "label": "格林納達",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "82",
+        "label": "格陵蘭",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "83",
+        "label": "古巴",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "84",
+        "label": "瓜德羅普",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "88",
+        "label": "海地",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "93",
+        "label": "洪都拉斯",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "99",
+        "label": "加拿大",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "107",
+        "label": "開曼羣島",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "135",
+        "label": "馬提尼克",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "140",
+        "label": "美國",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "142",
+        "label": "美屬外島",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "144",
+        "label": "蒙特塞拉特",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "153",
+        "label": "墨西哥",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "160",
+        "label": "尼加拉瓜",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "165",
+        "label": "諾福克",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "173",
+        "label": "薩爾瓦多",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "184",
+        "label": "聖基茨和尼維斯",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "185",
+        "label": "聖盧西亞",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "187",
+        "label": "聖皮埃爾和米克隆羣島",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "188",
+        "label": "聖文森特和格林納丁斯",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "202",
+        "label": "特克斯和凱克特斯羣島",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "204",
+        "label": "特立尼達和多巴哥",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "212",
+        "label": "危地馬拉",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "213",
+        "label": "維爾京羣島，美屬",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "214",
+        "label": "維爾京羣島，英屬",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "228",
+        "label": "牙買加",
+        "areaParentCode": "4",
+        "areaLevel": "2",
+        "isLeaf": false
+      }
+    ],
+    "label": "北美",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "isLeaf": false
+  },
+  {
+    "value": "5",
+    "children": [
+      {
+        "value": "11",
+        "label": "阿根廷",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "13",
+        "label": "阿魯巴",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "23",
+        "label": "安圭拉",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "28",
+        "label": "巴巴多斯島",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "32",
+        "label": "巴拉圭",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "36",
+        "label": "巴西",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "46",
+        "label": "玻利維亞",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "62",
+        "label": "厄瓜多爾",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "67",
+        "label": "法屬圭亞那",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "78",
+        "label": "哥倫比亞",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "86",
+        "label": "圭亞那",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "91",
+        "label": "荷屬安地列斯",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "147",
+        "label": "祕魯",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "195",
+        "label": "蘇里南",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "203",
+        "label": "特里斯坦達昆哈",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "215",
+        "label": "委內瑞拉",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "219",
+        "label": "烏拉圭",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "245",
+        "label": "智利",
+        "areaParentCode": "5",
+        "areaLevel": "2",
+        "isLeaf": false
+      }
+    ],
+    "label": "南美",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "isLeaf": false
+  },
+  {
+    "value": "6",
+    "children": [
+      {
+        "value": "25",
+        "label": "澳大利亞",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "29",
+        "label": "巴布亞新幾內亞",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "66",
+        "label": "法屬波利尼西亞",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "71",
+        "label": "斐濟",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "85",
+        "label": "關島",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "92",
+        "label": "赫德和麥克唐納羣島",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "94",
+        "label": "基里巴斯",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "108",
+        "label": "科科斯羣島",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "114",
+        "label": "庫克羣島",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "134",
+        "label": "馬紹爾羣島",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "141",
+        "label": "美屬薩摩亞",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "146",
+        "label": "密克羅尼西亞",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "158",
+        "label": "瑙魯",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "163",
+        "label": "紐埃",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "166",
+        "label": "帕勞羣島",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "167",
+        "label": "皮特凱恩",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "174",
+        "label": "薩摩亞",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "181",
+        "label": "聖誕島",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "196",
+        "label": "所羅門羣島",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "201",
+        "label": "湯加",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "206",
+        "label": "圖瓦盧",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "209",
+        "label": "托克勞",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "210",
+        "label": "瓦利斯和福圖納",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "211",
+        "label": "瓦努阿圖",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "224",
+        "label": "新喀里多尼亞",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "225",
+        "label": "新西蘭",
+        "areaParentCode": "6",
+        "areaLevel": "2",
+        "isLeaf": false
+      }
+    ],
+    "label": "大洋洲",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "isLeaf": false
+  },
+  {
+    "value": "156",
+    "children": [
+      {
+        "value": "157",
+        "label": "南喬治亞和南桑德威奇羣島",
+        "areaParentCode": "156",
+        "areaLevel": "2",
+        "isLeaf": false
+      },
+      {
+        "value": "169",
+        "label": "喬治亞",
+        "areaParentCode": "156",
+        "areaLevel": "2",
+        "isLeaf": false
+      }
+    ],
+    "label": "南極洲",
+    "areaParentCode": "0",
+    "areaLevel": "1",
+    "isLeaf": false
+  }
+]

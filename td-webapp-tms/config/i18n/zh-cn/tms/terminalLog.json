@@ -1,0 +1,15 @@
+{
+  "terminalLog": "终端日志管理",
+
+  "optLogno": "流水号",
+  "terId": "终端序列号",
+  "optTerPhyno": "终端机身号",
+  "optStep": "操作",
+  "optDesc": "操作描述",
+  "optOrg": "操作机构",
+  "optOrgId": "操作机构ID",
+  "optObj": "操作人",
+  "optDat": "操作时间",
+  "terNo": "终端号",
+  "terPhyno": "终端机身号"
+}

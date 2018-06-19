@@ -1,0 +1,31 @@
+{
+  "routerMerBankcard": "刷卡商户路由配置",
+  "routersBankcard": "商户刷卡路由信息",
+
+  "currency": "币种",
+  "currencySupport": "支持币种",
+  "currentCurrency": "当前币种",
+
+  "merId": "商户编号",
+  "merName": "商户名称",
+  "merNo": "商户号",
+  "currentRoute": "当前路由",
+
+  "chnMerId": "渠道商户编号",
+  "chnName": "渠道名称",
+  "chnMerNo": "渠道商户号",
+  "chnMerName": "渠道商户名",
+  "chnTermNo": "渠道终端号",
+  "isDefault": "默认状态",
+  "chnMerType": "渠道商户类型",
+
+  "setDefault": "设置默认",
+
+  "nullMerIdMsg": "请选择商户",
+
+   "isDefault-0": "非默认",
+   "isDefault-1": "默认",
+
+  "chnMerType-1": "大商户",
+  "chnMerType-2": "小商户"
+}

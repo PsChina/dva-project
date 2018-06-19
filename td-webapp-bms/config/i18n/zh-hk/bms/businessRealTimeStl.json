@@ -1,0 +1,12 @@
+{
+  "bizConfig": "業務配置",
+  "t0BizConfig": "T+0 業務配置",
+  "d0BizConfig": "D+0 業務配置",
+  "bizDetail": "業務詳情",
+  "t0BizDetail": "T+0 業務詳情",
+  "d0BizDetail": "D+0 業務詳情",
+  "serviceFee": "服務費率",
+  "serviceFeeLimit": "服務費封頂",
+  "serviceMaxLimit": "結算封頂",
+  "t0First": "請先開通T+0業務"
+}

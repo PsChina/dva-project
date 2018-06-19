@@ -1,0 +1,17 @@
+{
+  "offConfirm": "確認要關閉該業務嗎？",
+  "businessOverview": "業務總覽",
+  "onlinePay": "線上支付",
+  "offlinePay": "線下支付",
+  "realTimeSettlement": "實時結算",
+  "allOfflineBiz": "unionCard,gamapay,linepay",
+  "alipay": "支付寶",
+  "wechat": "微信支付",
+  "unionCard": "刷卡",
+  "gamapay": "橘子支",
+  "linepay": "LinePay",
+  "allRealTimeSettlementBiz": "t0,d0",
+  "t0": "T+0",
+  "d0": "D+0",
+  "allOnlineBiz": ""
+}

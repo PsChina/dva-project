@@ -1,0 +1,16 @@
+{
+    "time":"时间",
+    "customerName":"客户名称",
+    "customerType":"客户类型",
+    "paymentContent":"缴费内容",
+    "orderAmount":"订单金额",
+    "paymentType":"缴费方式",
+    "note":"订单备注",
+    "state":"状态",
+    "operation":"操作",
+
+    "state-0":"未确认",
+    "state-1":"已确认",
+    "selectCustomer":"输入客户名然后enter搜索",
+    "braName":"门店名称"
+}

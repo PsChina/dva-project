@@ -1,0 +1,19 @@
+{
+  "pubCurrencyManage": "币种信息管理",
+  "currencyName": "币种名称",
+  "currencyShortName": "币种简称",
+  "currencyCode": "币种代码",
+  "currencyAbbreviations": "币种缩写",
+  "decimalDigit": "最小单位：小数位数",
+  "status": "状态",
+  "status-1": "启用",
+  "status-0": "禁用",
+
+  "validStatus": "请填写状态",
+  "validCurrencyName": "请填写币种名称",
+  "validCurrencyCode": "请填写币种代码",
+  "validCurrency": "请填写币种",
+  "validDecimalDigit": "请填写最小单位(小数位数)",
+  "validCurrencyAbbreviations": "请填写币种缩写"
+  
+}

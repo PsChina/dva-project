@@ -1,0 +1,18 @@
+{
+  "orgManage": "机构管理",
+  "orgId": "机构编号",
+  "orgName": "机构名称",
+  "parentOrgId": "上级机构",
+  "orgDesc": "机构描述",
+  "isUse": "是否使用",
+  "creObj": "创建人",
+  "creTim": "创建时间",
+  "updObj": "更新人",
+  "updTim": "更新时间",
+  "alertMsg": "组织架构, 请在节点上点击鼠标右键操作",
+  "addChildOrg": "新增子机构",
+  "updateOrg": "修改本机构",
+  "deleteOrg": "删除本机构",
+  "enableOrg": "启用本机构",
+  "disableOrg": "禁用本机构"
+}

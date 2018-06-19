@@ -1,0 +1,18 @@
+{
+  "terminalKey": "終端密鑰管理",
+  "enupdate": "已更新",
+  "disupdate": "未更新",
+  "terId": "終端ID",
+  "terPhyno": "機身號",
+  "terNo": "終端號",
+  "lmkkey": "加密機主密鑰",
+  "zmkkey": "終端主密鑰",
+  "zmkkeyUpdateTime": "主鍵更新時間",
+  "tmkChk": "主密鑰校驗值",
+  "lpinkey": "終端PIN密鑰",
+  "lmackey": "終端MAC密鑰",
+  "ltdkey": "終端磁道密鑰",
+  "wkKeyUpdateTime": "更新時間",
+  "sysPassword": "密碼",
+  "setManaPassword": "請輸入密碼"
+}

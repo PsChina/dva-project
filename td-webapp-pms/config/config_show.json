@@ -1,0 +1,18 @@
+{
+  "app": "PMS",
+  "language": "zh-hk",
+  "loginUrl": "http://139.219.230.184:40000",
+  
+  "pmsReqType": "rest",
+  "pmsHost": "",
+  "pmsApp": "pms",
+  "pmsProxy": "http://139.196.230.184:18084/",
+  "pmsProxyApp": "/td-mms-web",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://139.219.230.184:18081/",
+  "basProxyApp": "/td-bas-web"
+
+}

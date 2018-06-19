@@ -1,0 +1,19 @@
+{
+  "app": "SMS",
+  "language": "zh-hk",
+  "loginUrl": "http://139.219.230.184:40000",
+
+  "smsReqType": "rest",
+  "smsHost": "",
+  "smsApp": "sms",
+  "smsProxy": "http://139.219.230.184:18085/",
+  "smsProxyApp": "/td-sms-web",
+
+  "basReqType": "rest",
+  "basHost": "",
+  "basApp": "bas",
+  "basProxy": "http://139.219.230.184:18081/",
+  "basProxyApp": "/td-bas-web",
+
+  "smsFileHost": "http://139.219.230.184:24001/"
+}

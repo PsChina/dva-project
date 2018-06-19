@@ -1,0 +1,97 @@
+{
+  "merchantBankcard": "刷卡渠道商户管理",
+  "merchantBankcardApply": "刷卡渠道商终添加",
+  "tab-1": "刷卡渠道商终添加",
+  "tab-2": "刷卡渠道商终导入",
+  "bankcardTxnAuth": "刷卡渠道商终交易权限",
+  "bankcardTermInf": "终端记录",
+  "areaCodeSet": "设置交易地区",
+
+  "chnId": "渠道编号",
+  "chnName": "渠道名称",
+  "chnType": "渠道类型",
+  "chnMerType": "商户类型",
+  "chnMerName": "商户名称",
+  "chnMerNo": "商户号",
+  "chnMerStatus": "商户状态",
+
+  "hashKey": "HashKey",
+  "hashIV": "HashIV",
+
+  "singleDayLimit": "日交易限额",
+  "singleMonthLimit": "月交易限额",
+  "singleDayCount": "单日笔数上限",
+  "singleMonthCount": "单月笔数上限",
+  "singleMinAmt": "单笔最低金额",
+  "singleMaxAmt": "单笔最高金额",
+
+  "feeMode": "计费方式",
+  "debitCardRate": "借记卡费率",
+  "debitCardTop": "借记卡封顶",
+  "creditCardRate": "贷记卡费率",
+  "creditCardTop": "贷记卡封顶",
+  "minBill": "最低手续费",
+
+  "areaCode": "交易地区",
+  "txnTime": "交易时间",
+
+  "chnPinkey": "渠道PIN密钥",
+  "chnMackey": "渠道MAC密钥",
+  "chnTdkkey": "渠道磁道密钥",
+  "chnTmkkey": "渠道终端主密钥",
+
+  "exitEnable": "请先禁用所选商户",
+  "programErr": "数据异常",
+  "statusNotMatch": "请选择状态相同的项目！",
+  "enableConfirm": "确认要开启指定项目吗？",
+  "disableConfirm": "确认要关闭指定项目吗？",
+
+  "addTerm": "添加终端",
+  "terNo": "终端号",
+
+  "pospayTxnSup": "交易类型",
+  "txnChannelSupport": "收款方式",
+  "currencySupport": "币种支持",
+
+
+  "chnType-0": "银联",
+  "chnType-1": "银行",
+  "chnType-2": "第三方金融机构",
+
+  "chnMerType-1": "大商户",
+  "chnMerType-2": "小商户",
+
+  "feeMode-1": "四舍五入",
+  "feeMode-2": "全部舍去",
+  "feeMode-3": "全部进位",
+
+  "authTag": "银行卡交易类",
+  "authDesc": "这里是银行卡类交易权限设置，变更信息后，点击提交，渠道商户交易权限即可生效",
+
+  "termInf": "终端信息",
+  "txnArea": "交易地区",
+  "limitInfo": "限额信息",
+
+  "limitInfo-0": "关闭限额信息",
+  "limitInfo-1": "打开限额信息",
+
+  "stlMemTyp": "清算方",
+
+  "stlMemTyp-0": "平台",
+  "stlMemTyp-1": "渠道",
+
+  "updAuthInf": "修改权限",
+
+  "inputFile": "导入文件",
+  "downloadFile": "下载导入模版",
+
+  "txnChannel-0001": "银联卡",
+  "txnChannel-0002": "VISA",
+  "txnChannel-0003": "MasterCard",
+  "txnChannel-0000": "JCB",
+
+  "fileUploadWarn": "文件上传失败",
+  "fileUploadSuccess": "文件上传成功",
+  "txnChannel": "支付渠道",
+  "currency": "币种支持"
+}

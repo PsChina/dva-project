@@ -1,0 +1,14 @@
+{
+  "mccChannel": "MCC渠道",
+  "mccCode": "MCC码",
+  "mccCls":"商户类别",
+  "mccUnistdrat":"行业类型",
+  "mccDesc":"MCC定义",
+
+  "mccChannel-01" :"银联",
+  "mccChannel-02" :"支付宝",
+
+  "mccUnistdrat-01":"标准类",
+  "mccUnistdrat-02":"优惠类",
+  "mccUnistdrat-03":"减免类"
+}

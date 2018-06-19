@@ -1,0 +1,6 @@
+{
+  "paperId":"证件ID",
+  "paperTyp":"证件类型",
+  "paperTyp-01":"身分证",
+  "paperTyp-02":"护照"
+}

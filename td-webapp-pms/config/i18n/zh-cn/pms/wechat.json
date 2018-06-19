@@ -1,0 +1,10 @@
+{
+  "wechatAppId": "公众号ID",
+  "wechatMerNo": "微信商户号",
+  "wechatMerSubNo": "微信子商户号",
+  "wechatTxnKey": "交易密钥",
+  "wechatTxnCert":"微信证书",
+  "wechatSecret":"授权secret",
+  "wechatAccessTk":"授权Access Token",
+  "wechatJsapiTiket":"tiket签名"
+}

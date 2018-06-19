@@ -1,0 +1,30 @@
+{
+
+    "terminalBindcard": "终端代理商管理",
+    "terminalAgentcard": "终端下拨",
+    "terminalAgentTermcard": "代理商终端信息",
+
+    "addTim": "代理商添加时间",
+    "agtAp": "代理商法人",
+    "agtEmail": "代理商邮箱",
+    "agtId": "代理商编号",
+    "agtLv": "代理商等级",
+    "agtName": "代理商名称",
+    "agtParent": "上级代理商编号",
+    "agtScope": "代理范围",
+    "agtScopeArea": "代理范围区",
+    "agtScopeCity": "代理范围市",
+    "agtScopeProv": "代理范围省份",
+    "agtType": "代理商类型",
+    "apId": "证件号",
+    "bizSale": "拓展业务员",
+    "bizStatus": "业务状态",
+    "stlT0": "是否支持T0",
+    "stlD0": "是否支持D0",
+    "preStl": "是否垫资",
+
+    "agtSureBindSelect": "您确定要绑定选中终端吗?",
+    "agtSureBindAll": "您确定要绑定所有查询出来的终端吗?",
+    "agtSureYes": "Yes",
+    "agtSureNo": "No"
+}

@@ -1,0 +1,16 @@
+{
+  "todayCheck": "當日對賬情況",
+  "last15DayCheck": "近15天對賬情況",
+  "doubtCount": "疑賬總筆數",
+  "errorCount": "錯賬總筆數",
+  "chkTotCnt": "對賬總筆數",
+  "sucTotCnt": "對平總筆數",
+  "total": "總量",
+  "todaySettlement": "當日結算情況",
+  "last15DaySettlement": "近15天結算情況",
+  "shouldStlAmt": "應結算金額",
+  "settledAmt": "已結算金額",
+  "monthShare": "當月分潤情況",
+  "last6MonthShare": "近6個月分潤情況",
+  "shaTotCost": "分潤總金額"
+}

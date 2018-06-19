@@ -1,0 +1,9 @@
+{
+  "chnType": "渠道類型",
+  "chnName": "渠道名稱",
+  "chnStatus": "渠道狀態",
+  "chnConter": "聯繫人",
+  "chnType-0": "銀聯",
+  "chnType-1": "銀行",
+  "chnType-2": "第三方金融機構"
+}

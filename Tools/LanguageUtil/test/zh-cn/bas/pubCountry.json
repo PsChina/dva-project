@@ -1,0 +1,14 @@
+{
+  "pubCountryManage": "国家信息管理",
+  "country": "国家名称",
+  "countryCode": "国家代码",
+  "countryShortName": "国家缩写",
+  "status": "状态",
+  "status-1": "启用",
+  "status-0": "禁用",
+
+  "validStatus": "请填写状态",
+  "validCountry": "请填写国家名称",
+  "validCountryCode": "请填写国家代码",
+  "validCountryAbbreviations": "请填写国家缩写"
+}

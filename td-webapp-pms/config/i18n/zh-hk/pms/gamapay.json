@@ -1,0 +1,6 @@
+{
+  "gamaPayMerchantID": "橘子支商户賬號",
+  "gamaPaySubMerchantID": "橘子支商户子賬號",
+  "gamaPayHashKey": "gamaPayHashKey",
+  "gamaPayHashIv": "hashIV"
+}

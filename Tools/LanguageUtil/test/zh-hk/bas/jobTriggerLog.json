@@ -1,0 +1,19 @@
+{
+  "jobTriggerLogManage": "調度日誌",
+  "id": "調度日誌ID",
+  "jobGroup": "任務組",
+  "jobName": "任務名",
+  "jobCron": "0 50 7 * * ?",
+  "jobDesc": "描述",
+  "jobClass": "任務執行JOBBEAN",
+  "executorAddress": "執行器地址",
+  "executorHandler": "jobHandler",
+  "executorParam": "執行參數",
+  "triggerTime": "調度時間",
+  "triggerStatus": "調度結果",
+  "triggerMsg": "調度日誌",
+  "handleTime": "執行時間",
+  "handleStatus": "執行狀態",
+  "handleMsg": "執行日誌",
+  "showHandMsg": "查看"
+}

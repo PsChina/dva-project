@@ -1,0 +1,12 @@
+{
+  "prodId": "产品ID",
+  "prodName": "产品名称",
+  "prodType": "产品类型",
+  "prodType-1": "产品1型",
+  "prodType-2": "产品2型",
+  "prodType-3": "产品3型",
+  "prodStatus": "产品状态",
+
+  "validProdName": "请填写产品名称",
+  "validProdType": "请选择产品类型"
+}

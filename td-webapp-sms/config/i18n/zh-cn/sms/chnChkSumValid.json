@@ -1,0 +1,7 @@
+{
+  "validChkDat": "请选择对账日期",
+  "validChnBuzType": "请选择渠道类型",
+  "validPreChnBuzType": "请先选择渠道类型",
+  "validChnId": "请选择渠道",
+  "validFilePath": "请上传对账文件"
+}
